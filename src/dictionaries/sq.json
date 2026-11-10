@@ -1,0 +1,304 @@
+
+{
+  "header": {
+    "home": "Kryefaqja",
+    "services": "Shërbimet",
+    "about": "Rreth Nesh",
+    "gallery": "Galeria",
+    "blog": "Blogu",
+    "faq": "Pyetje të Shpeshta",
+    "contact": "Kontakti",
+    "bookConsultation": "Rezervo një Konsultë"
+  },
+  "footer": {
+    "description": "Kira Aesthetic është një klinikë prestigjioze e specializuar në një gamë të gjerë trajtimesh estetike, dentare dhe mjekësore.",
+    "quickLinks": "Linqe të Shpejta",
+    "contactUs": "Na Kontaktoni",
+    "address": "Emri i Rrugës 123, Qyteti, Vendi",
+    "phone": "+123 456 7890",
+    "email": "contact@kiraaesthetic.com",
+    "legal": "© 2024 Kira Aesthetic. Të gjitha të drejtat e rezervuara.",
+    "privacyPolicy": "Politika e Privatësisë",
+    "termsOfService": "Kushtet e Shërbimit"
+  },
+  "hero": {
+    "title": "Arti i Transformimit të Përjetshëm",
+    "subtitle": "Zbuloni trajtime estetike, dentare dhe mjekësore të klasit botëror në Kira Aesthetic. Udhëtimi juaj drejt vetëbesimit fillon këtu.",
+    "ourServices": "Shërbimet Tona",
+    "bookNow": "Rezervo Tani"
+  },
+  "serviceHighlights": {
+    "title": "Koleksioni i Përzgjedhur",
+    "subtitle": "Eksploroni një spektër trajtimesh transformuese ku mjeshtëria mjekësore takohet me një sy pa kompromis për detajet natyrale.",
+    "explore": "Eksploro"
+  },
+  "serviceCategories": {
+    "face": "Fytyrë",
+    "breast": "Gjoks",
+    "body": "Trup",
+    "aesthetics": "Estetikë",
+    "dentistry": "Stomatologji"
+  },
+  "services": {
+    "surgical": "Kirurgjikale",
+    "generalBody": "Trup i Përgjithshëm",
+    "skinRejuvenation": "Rinimi i Lëkurës",
+    "plasmaArcRemovals": "Heqje me Hark Plazmatik",
+    "fillers": "Mbushës",
+    "prosthetics": "Protetikë",
+    "orthodontics": "Ortodonci",
+    "therapy": "Terapi",
+    "surgicalDentistry": "Stomatologji Kirurgjikale",
+    "pedodontics": "Pedodonti",
+    "beardTransplant": "Transplantim Mjekre",
+    "browLift": "Ngritje e Vetullave",
+    "cheekboneReshaping": "Riformim i Mollëzave",
+    "chinReshaping": "Riformim i Mjekrës",
+    "earReshaping": "Riformim i Veshëve",
+    "eyebrowTransplant": "Transplantim Vetullash",
+    "eyelidSurgery": "Kirurgji e Qepallave",
+    "faceLift": "Lifting Fytyre",
+    "hairTransplant": "Transplantim Flokësh",
+    "rhinoplasty": "Rinoplastikë",
+    "breastAugmentation": "Zmadhim Gjoksi",
+    "breastLift": "Ngritje Gjoksi",
+    "breastReconstruction": "Rindërtim Gjoksi",
+    "breastReduction": "Zvogëlim Gjoksi",
+    "gynecomastia": "Gjinekomasti",
+    "armLift": "Lifting i Krahëve",
+    "brazilianButtLift": "Lifting Brazilian i Vitheve",
+    "labiaplasty": "Labioplastikë",
+    "liposculpture": "Liposkulpturë",
+    "thighLift": "Lifting i Kofshëve",
+    "tummyTuck": "Abdominoplastikë",
+    "liposuction": "Liposucion",
+    "sclerotherapy": "Skleroterapi",
+    "lipolysis": "Lipolizë",
+    "strikeCell": "Trajtim Celuliti StrikeCell",
+    "microdermabrasion": "Mikrodermabrazion",
+    "microneedling": "Microneedling",
+    "dermapen4": "Dermapen 4",
+    "multivitaminTreatment": "Trajtim Multivitaminë",
+    "prpFace": "PRP për fytyrën",
+    "prpHair": "PRP për flokët",
+    "whitePeeling": "Peeling i Bardhë",
+    "xanthelasma": "Xanthelasma (E vogël, E mesme, E madhe)",
+    "callus": "Kallo (I vogël, I mesëm, I madh)",
+    "wart": "Lyth (I vogël, I madh)",
+    "mole": "Nishan (I vogël, I mesëm, I madh)",
+    "cheekFiller": "Mbushës Mollëzash 2ml",
+    "jawlineFiller": "Mbushës Nofulle 3ml",
+    "nasolabialFiller": "Mbushës Rrudhash Nazolabiale",
+    "foreheadFiller": "Mbushës Rrudhash Balli",
+    "lipFiller": "Mbushës Buzësh 2ml",
+    "compositeVeneers": "Faseta Kompoziti",
+    "emaxVeneers": "Faseta E-Max",
+    "teethWhitening": "Zbardhim Dhëmbësh",
+    "crowns": "Kurora",
+    "dentalBridges": "Ura Dentare",
+    "dentures": "Proteza",
+    "fixedBraces": "Aparate Fikse",
+    "invisalign": "Invisalign",
+    "removableAppliances": "Aparate të Lëvizshme",
+    "infectedTeethTreatment": "Trajtim i Dhëmbëve të Infektuar",
+    "tartarCleaning": "Pastrim Gurëzash",
+    "toothFillings": "Mbushje Dhëmbësh",
+    "apicalResection": "Rezeksion Apikal",
+    "dentalImplants": "Implante Dentare",
+    "toothExtraction": "Heqje Dhëmbi",
+    "milkTeethTreatment": "Trajtim i Dhëmbëve të Qumështit",
+    "toothFluoridation": "Fluorizim i Dhëmbëve",
+    "toothSealants": "Silantë Dentarë"
+  },
+  "whyChooseUs": {
+    "title": "Standardi Kira",
+    "subtitle": "Kulmi i Përsosmërisë rrezatuese",
+    "expertise": {
+      "title": "Mjeshtëri Vizionare",
+      "description": "Një kolektiv specialistësh të certifikuar të përkushtuar ndaj kulmit të ekselencës mjekësore dhe harmonisë estetike."
+    },
+    "technology": {
+      "title": "Inovacioni Klinik",
+      "description": "Saktësi pa kompromis. Ne përdorim sistemet e gjeneratës së ardhshme për siguri të pashoqe dhe rezultate mahnitëse."
+    },
+    "care": {
+      "title": "Një Rrugëtim Intim",
+      "description": "Ne besojmë in një qasje të personalizuar ku historia juaj unike dikton planin, duke siguruar kujdes që është po aq i thellë sa rezultatet."
+    },
+    "safety": {
+      "title": "Betimi i Heshtur",
+      "description": "Respektimi i protokolleve më rigoroze të sigurisë në botë. Mirëqenia juaj është themeli i padukshëm i gjithçkaje që bëjmë."
+    },
+    "results": {
+      "title": "Përkatësi Natyrale",
+      "description": "Ne jemi të specializuar në rezultate aq të rafinuara dhe natyrale, saqë do të ndjeheni sikur ju kanë pasur përkitur gjithmonë."
+    }
+  },
+  "testimonials": {
+    "title": "Zërat e Transformimit",
+    "subtitle": "Dëshmitë më të thella të punës sonë janë rrugëtimet e atyre që ne u shërbejmë."
+  },
+  "contactForm": {
+    "title": "Filloni Rrugëtimin Tuaj",
+    "subtitle": "Hyni në një botë të kujdesit të personalizuar. Transformimi juaj fillon me një bisedë private.",
+    "name": "Emri i Plotë",
+    "email": "Adresa Email",
+    "phone": "Numri i Telefonit",
+    "message": "Detajet e Konsultës",
+    "sendMessage": "Dërgo Kërkesën",
+    "success": "Kërkesa juaj është marrë. Ne do t'ju kontaktojmë me diskrecion.",
+    "error": "Dështoi dërgimi i kërkesës. Ju lutemi kontaktoni shërbimin tonë direkt."
+  },
+  "servicesPage": {
+    "title": "Spektri i Plotë i Kujdesit",
+    "subtitle": "Një portfolio e gjerë e dizajnuar për të rritur hirin tuaj natyral dhe mirëqenien klinike."
+  },
+  "servicePage": {
+    "procedureTime": "Kohëzgjatja",
+    "anesthesia": "Anestezia",
+    "recoveryTime": "Restaurimi",
+    "results": "Rezultati",
+    "quickFacts": {
+      "varies": "I personalizuar",
+      "oneToThreeHours": "1-3 orë",
+      "localOrGeneral": "Lokale ose e Përgjithshme",
+      "oneToTwoWeeks": "1-2 javë",
+      "longLasting": "Afatgjatë",
+      "oneToTwoHours": "1-2 orë"
+    },
+    "aboutTheProcedure": "Procedura",
+    "benefitsResults": "Përfitimet Klinike",
+    "benefitsDescription": "Çdo trajtim është një hap i qëllimshëm drejt qëllimeve tuaja estetike, duke theksuar shëndetin dhe harmoninë vizuale.",
+    "consultationRecovery": "Restaurimi dhe Kujdesi",
+    "consultationRecoveryDescription": "Udhëtimi juaj mbështetet nga një plan i detajuar, duke garantuar qartësi dhe komoditet nga biseda fillestare deri në rezultatin final.",
+    "onThisPage": "Në këtë faqe",
+    "readyToLearnMore": "Gati për të mësuar më shumë?",
+    "scheduleConsultation": "Caktoni një konsultë të personalizuar me ekspertët tanë sot."
+  },
+  "aboutPage": {
+    "title": "Rreth Nesh",
+    "storyTitle": "Historia dhe Vlerat Tona",
+    "storyText": "Mirësevini në KIRA AESTHETIC, një vend ku aspiratat për bukuri bëhen realitet dhe çdo pacient është në qendër të një përvoje unike dhe transformuese. KIRA AESTHETIC është ndërtuar mbi një përkushtim ndaj ekselencës mjekësore, kujdesit të personalizuar dhe një qasjeje thellësisht njerëzore ndaj mjekësisë estetike. Çdo ditë, ne mirëpresim pacientë nga e gjithë bota me një mision: t'ju ndihmojmë të ndiheni më të sigurt, më të lumtur dhe më në harmoni me veten tuaj.",
+    "missionTitle": "Misioni Ynë",
+    "missionText": "Misioni ynë është i thjeshtë por domethënës: të përmirësojmë jetën e pacientëve tanë. Çdo trajtim dhe procedurë është hartuar me kujdes për të ofruar rezultate të sigurta, me pamje natyrale dhe një përvojë të personalizuar që respekton dhe kremton unikatin e çdo individi.",
+    "visionTitle": "Vizioni Ynë",
+    "visionText": "Ne besojmë se bukuria nuk ka të bëjë vetëm me pamjen, por edhe me vetëbesimin, mirëqenien dhe ndjesinë e të qenit mirë me veten. Vizioni ynë është të bëhemi një referencë e besuar në mjekësinë estetike duke përqafuar vazhdimisht inovacionin, teknologjinë e avancuar dhe standardet më të larta të kujdesit — pa bërë kompromis me cilësinë.",
+    "valuesTitle": "Vlerat Tona",
+    "valuesExcellenceTitle": "Ekselenca Mjekësore",
+    "valuesExcellenceText": "Ne jemi të përkushtuar ndaj standardeve më të larta të ekselencës mjekësore. Çdo procedurë kryhet me saktësi, ekspertizë dhe vëmendje ndaj detajeve, duke përdorur teknika të avancuara, teknologji moderne dhe materiale të cilësisë së lartë.",
+    "valuesCareTitle": "Kujdes i Personalizuar",
+    "valuesCareText": "Çdo pacient është unik. Nga konsulta e parë deri te kujdesi pas trajtimit, ne fokusohemi në krijimin e një përvoje të personalizuar ku ju ndiheni të dëgjuar, të respektuar, të mbështetur dhe të vlerësuar.",
+    "valuesInnovationTitle": "Inovacioni",
+    "valuesInnovationText": "Ne përqafojmë vazhdimisht inovacionin, duke kombinuar teknikat e avancuara dhe teknologjinë moderne për të ofruar rezultate të sigurta, efektive dhe të rafinuara.",
+    "valuesTransparencyTitle": "Transparenca",
+    "valuesTransparencyText": "Ne besojmë në qartësi dhe ndershmëri. Nga konsulta juaj e parë deri te plani final i trajtimit, çdo hap shpjegohet qartë dhe në mënyrë transparente, pa surpriza.",
+    "valuesSocialTitle": "Përgjegjësia Sociale",
+    "valuesSocialText": "Ne besojmë se bukuria do të thotë gjithashtu të kontribuosh pozitivisht në botën rreth nesh. Ne jemi të përkushtuar të mbështesim iniciativa domethënëse dhe të kontribuojmë në mirëqenien e komunitetit tonë të gjerë.",
+    "whyTitle": "Pse të zgjidhni KIRA AESTHETIC?",
+    "whyTeamTitle": "Një Ekip i Përkushtuar ndaj Ekselencës",
+    "whyTeamText": "Ekipi ynë me përvojë është i përkushtuar në ofrimin e standardeve më të larta të kujdesit, duke kombinuar ekspertizën, saktësinë dhe një qasje ku pacienti është i pari për t'ju ndihmuar të arrini qëllimet tuaja estetike.",
+    "whySafeTitle": "Një Ambient i Sigurt dhe Modern",
+    "whySafeText": "Ambientet tona janë krijuar për të ofruar komoditet, siguri dhe qetësi shpirtërore, të mbështetura nga teknologjia moderne dhe standardet e mirëmbajtura me kujdes.",
+    "whyPersonalTitle": "Një Përvojë e Personalizuar",
+    "whyPersonalText": "Nga konsulta juaj e parë deri në rrugëtimin tuaj të kujdesit pasues, ekipi ynë është këtu për t'ju mbështetur në çdo hap të rrugës. Ne gjejmë kohë për të kuptuar qëllimet tuaja dhe për të krijuar një përvojë trajtimi të përshtatur posaçërisht për ju.",
+    "whyValueTitle": "Vlerë e Jashtëzakonshme",
+    "whyValueText": "Ne besojmë se kujdesi estetik i cilësisë së lartë duhet të jetë i aksesueshëm pa bërë kompromis me sigurinë, ekspertizën ose rezultatet. Qëllimi ynë është të ofrojmë vlerë të jashtëzakonshme duke ruajtur standardet më të larta të kujdesit.",
+    "whyExpTitle": "Përvojat e Reale të Pacientëve",
+    "whyExpText": "Besimi dhe kënaqësia e pacientëve tanë janë në zemër të gjithçkaje që bëjmë. Përvojat dhe feedback-u i atyre që kanë zgjedhur KIRA AESTHETIC pasqyrojnë angazhimin tonë për kujdes, cilësi dhe ekselencë.",
+    "commitmentTitle": "Angazhimi Ynë",
+    "commitmentText": "Në KIRA AESTHETIC, ne bëjmë më shumë sesa thjesht ofrimin e trajtimeve estetike. Ne krijojmë një rrugëtim. Ne dëgjojmë, mbështesim, udhëzojmë dhe festojmë çdo hap me pacientët tanë. Vetëbesimi, mirëqenia dhe kënaqësia juaj janë në zemër të gjithçkaje që bëjmë.",
+    "contactTitle": "Na Kontaktoni",
+    "contactText": "Ne jemi këtu për t'ju dëgjuar, për t'ju përgjigjur pyetjeve tuaja dhe për t'ju ndihmuar të eksploroni qëllimet tuaja estetike. Na kontaktoni për të caktuar një konsultë dhe zbuloni se si KIRA AESTHETIC mund t'ju mbështesë në rrugëtimin tuaj. Transformimi juaj fillon këtu."
+  },
+  "galleryPage": {
+    "title": "Mjeshtëria e Shpalosur",
+    "subtitle": "Një portfolio vizuale që reflekton fuqinë delikate të ekselencës shkencore dhe rafinimit estetik."
+  },
+  "blogPage": {
+    "title": "Journal-i Estetik",
+    "subtitle": "Një histori, inovacion dhe perspektiva ekspertësh nga ballina e mjekësisë estetike.",
+    "readMore": "Lexo Artikullin"
+  },
+  "faqPage": {
+    "title": "Baza e Njohurive",
+    "subtitle": "Rafinimi i kuptueshmërisë suaj mbi filozofinë tonë dhe protokollet kirurgjikale.",
+    "contactTitle": "Keni ende pyetje?",
+    "contactSubtitle": "Nëse nuk gjeni përgjigjen që kërkoni, ju lutemi mos hezitoni të na kontaktoni.",
+    "faqs": [
+      {
+        "id": "faq1",
+        "question": "Cili është hapi i parë për çdo trajtim?",
+        "answer": "Hapi i parë është gjithmonë një konsultë personale me një nga specialistët tanë. Ne do të diskutojmë qëllimet tuaja, do të vlerësojmë rastin tuaj dhe do të propozojmë një plan trajtimi të personalizuar për ju."
+      },
+      {
+        "id": "faq2",
+        "question": "Sa zgjat periudha e rimëkëmbjes për procedurat kirurgjikale?",
+        "answer": "Koha e rimëkëmbjes ndryshon shumë në varësi të procedurës. Gjatë konsultës suaj, kirurgu ynë do t'ju japë informacion të detajuar rreth afatit kohor të pritshëm të rimëkëmbjes, kujdesit pas operacionit dhe çdo kufizimi aktiviteti."
+      },
+      {
+        "id": "faq3",
+        "answer": "Ne i japim përparësi rehatisë së pacientit. Për procedurat kirurgjikale, përdoret anestezi. Për trajtimet jo-kirurgjikale, ne përdorim kremra mpirës topik dhe teknika të tejera për të minimizuar çdo shqetësim. Shumica e pacientëve raportojnë pak ose aspak dhimbje.",
+        "question": "A janë trajtimet të dhimbshme?"
+      },
+      {
+        "id": "faq4",
+        "question": "Si mund të rezervoj një takim?",
+        "answer": "Ju mund të rezervoni një konsultë duke na telefonuar direkt, duke na dërguar një email, ose duke përdorur formularin e kontaktit në faqen tonë të internetit. Ekipi ynë do t'ju kontaktojë menjëherë për të caktuar takimin tuaj."
+      },
+      {
+        "id": "faq5",
+        "question": "A ofroni opsione financimi?",
+        "answer": "Po, ne ofrojmë një sërë opsionesh financimi për t'i bërë trajtimet tona më të aksesueshme. Ju lutemi kontaktoni ekipin tonë administrativ për të mësuar më shumë rreth planeve të disponueshme."
+      },
+      {
+        "id": "faq6",
+        "question": "A do të duket hunda ime natyrale pas operacionit?",
+        "answer": "Qëllimi ynë kryesor është një pamje natyrale në çdo operacion, diçka me të cilën do të ndiheni të sigurt dhe gati për të pushtuar botën!"
+      },
+      {
+        "id": "faq7",
+        "question": "Sa ndryshim mund të pres në pamjen e hundës sime?",
+        "answer": "Nga qindra histori të pacientëve tanë, ndryshimi, duke qenë natyral, do t'i përshtatet fytyrës suaj, por mund të mos jetë diçka që të gjithë do ta vënë re menjëherë. Sidoqoftë, fytyra juaj do të ketë gjithçka në harmoni."
+      }
+    ]
+  },
+  "contactPage": {
+    "title": "Na Kontaktoni",
+    "subtitle": "Jemi këtu për të ndihmuar. Na kontaktoni për çdo pyetje ose për të caktuar konsultën tuaj.",
+    "officeHours": "Orari i Punës",
+    "mondayFriday": "E Hënë - E Premte: 9:00 - 18:00",
+    "saturday": "E Shtunë: 10:00 - 16:00",
+    "sunday": "E Diel: Mbyllur",
+    "location": "Vendndodhja Jonë"
+  },
+  "chat": {
+    "welcome": "Mirë se vini në Kira Aesthetic! Si mund t'ju ndihmoj sot?",
+    "inputPlaceholder": "Bëni një pyetje..."
+  },
+  "admin": {
+    "loginTitle": "Hyrja e Administratorit",
+    "email": "Email",
+    "password": "Fjalëkalimi",
+    "login": "Hyr",
+    "dashboard": "Paneli",
+    "feedback": "Përmbledhësi i Feedback-ut",
+    "blogManagement": "Menaxhimi i Blogut",
+    "logout": "Dil",
+    "feedbackTitle": "Përmbledhësi i Feedback-ut të Klientëve",
+    "feedbackSubtitle": "Vendosni feedback-un e klientëve më poshtë për të gjeneruar një përmbledhje të shkurtër me njohuri të veprueshme.",
+    "feedbackInput": "Shkruani feedback-un e klientëve këtu...",
+    "summarize": "Përmblidh",
+    "summary": "Përmbledhje",
+    "blogTitle": "Menaxho Postimet e Blogut",
+    "newPost": "Postim i Ri",
+    "postTitle": "Titulli",
+    "postDate": "Data",
+    "postAuthor": "Autori",
+    "actions": "Veprimet",
+    "edit": "Redakto",
+    "delete": "Fshij"
+  },
+  "resultsCarousel": {
+    "title": "Rezultatet"
+  }
+}

@@ -1,0 +1,304 @@
+
+{
+  "header": {
+    "home": "Home",
+    "services": "Servizi",
+    "about": "Chi Siamo",
+    "gallery": "Galleria",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contatti",
+    "bookConsultation": "Prenota una Consulenza"
+  },
+  "footer": {
+    "description": "Kira Aesthetic è una clinica di prim'ordine specializzata in una vasta gamma di trattamenti estetici, dentistici e medici.",
+    "quickLinks": "Link Rapidi",
+    "contactUs": "Contattaci",
+    "address": "Nome della Via 123, Città, Paese",
+    "phone": "+123 456 7890",
+    "email": "contact@kiraaesthetic.com",
+    "legal": "© 2024 Kira Aesthetic. Tutti i diritti riservati.",
+    "privacyPolicy": "Informativa sulla Privacy",
+    "termsOfService": "Termini di Servizio"
+  },
+  "hero": {
+    "title": "L'Arte della Trasformazione Senza Tempo",
+    "subtitle": "Scopri trattamenti estetici, dentistici e medici di livello mondiale presso Kira Aesthetic. Il tuo viaggio verso la fiducia inizia qui.",
+    "ourServices": "I Nostri Servizi",
+    "bookNow": "Prenota Ora"
+  },
+  "serviceHighlights": {
+    "title": "La Collezione d'Elite",
+    "subtitle": "Esplora uno spettro di trattamenti trasformativi dove la maestria medica incontra un occhio intransigente per i dettagli naturali.",
+    "explore": "Esplora"
+  },
+  "serviceCategories": {
+    "face": "Viso",
+    "breast": "Seno",
+    "body": "Corpo",
+    "aesthetics": "Estetica",
+    "dentistry": "Odontoiatria"
+  },
+  "services": {
+    "surgical": "Chirurgico",
+    "generalBody": "Corpo Generale",
+    "skinRejuvenation": "Ringiovanimento della Pelle",
+    "plasmaArcRemovals": "Rimozioni con Arco al Plasma",
+    "fillers": "Filler",
+    "prosthetics": "Protesi",
+    "orthodontics": "Ortodonzia",
+    "therapy": "Terapia",
+    "surgicalDentistry": "Chirurgia Odontoiatrica",
+    "pedodontics": "Pedodonzia",
+    "beardTransplant": "Trapianto di Barba",
+    "browLift": "Lifting del Sopracciglio",
+    "cheekboneReshaping": "Rimodellamento degli Zigomi",
+    "chinReshaping": "Rimodellamento del Mento",
+    "earReshaping": "Rimodellamento delle Orecchie",
+    "eyebrowTransplant": "Trapianto di Sopracciglia",
+    "eyelidSurgery": "Chirurgia delle Palpebre",
+    "faceLift": "Lifting del Viso",
+    "hairTransplant": "Trapianto di Capelli",
+    "rhinoplasty": "Rinoplastica",
+    "breastAugmentation": "Aumento del Seno",
+    "breastLift": "Mastopessi",
+    "breastReconstruction": "Ricostruzione del Seno",
+    "breastReduction": "Riduzione del Seno",
+    "gynecomastia": "Ginecomastia",
+    "armLift": "Lifting delle Braccia",
+    "brazilianButtLift": "Lifting Brasiliano dei Glutei",
+    "labiaplasty": "Labiaplastica",
+    "liposculpture": "Liposcultura",
+    "thighLift": "Lifting delle Cosce",
+    "tummyTuck": "Addominoplastica",
+    "liposuction": "Liposuzione",
+    "sclerotherapy": "Scleroterapia",
+    "lipolysis": "Lipolisi",
+    "strikeCell": "Trattamento Anticellulite StrikeCell",
+    "microdermabrasion": "Microdermoabrasione",
+    "microneedling": "Microneedling",
+    "dermapen4": "Dermapen 4",
+    "multivitaminTreatment": "Trattamento Multivitamitnico",
+    "prpFace": "PRP per il viso",
+    "prpHair": "PRP per i capelli",
+    "whitePeeling": "Peeling Bianco",
+    "xanthelasma": "Xantelasma (Piccolo, Medio, Grande)",
+    "callus": "Callo (Piccolo, Medio, Grande)",
+    "wart": "Verruca (Piccola, Grande)",
+    "mole": "Neo (Piccolo, Medio, Grande)",
+    "cheekFiller": "Filler Zigomi 2ml",
+    "jawlineFiller": "Filler Mandibola 3ml",
+    "nasolabialFiller": "Filler Solco Naso-labiale",
+    "foreheadFiller": "Filler Rughe Frontali",
+    "lipFiller": "Filler Labbra 2ml",
+    "compositeVeneers": "Faccette in Composito",
+    "emaxVeneers": "Faccette E-Max",
+    "teethWhitening": "Sbiancamento Dentale",
+    "crowns": "Corone",
+    "dentalBridges": "Ponti Dentali",
+    "dentures": "Protesi",
+    "fixedBraces": "Apparecchi Fissi",
+    "invisalign": "Invisalign",
+    "removableAppliances": "Apparecchi Rimovibili",
+    "infectedTeethTreatment": "Trattamento Denti Infetti",
+    "tartarCleaning": "Pulizia del Tartaro",
+    "toothFillings": "Otturazioni Dentali",
+    "apicalResection": "Apicectomia",
+    "dentalImplants": "Impianti Dentali",
+    "toothExtraction": "Estrazione Dentale",
+    "milkTeethTreatment": "Trattamento Denti da Latte",
+    "toothFluoridation": "Fluoroprofilassi",
+    "toothSealants": "Sigillature Dentali"
+  },
+  "whyChooseUs": {
+    "title": "Lo Standard Kira",
+    "subtitle": "L'Apice della Raffinatezza Radiosa",
+    "expertise": {
+      "title": "Maestria Visionaria",
+      "description": "Un collettivo di specialisti certificati dediti alla vetta dell'eccellenza medica e dell'armonia estetica."
+    },
+    "technology": {
+      "title": "Innovazione Clinica",
+      "description": "Precisione senza compromessi. Sfruttiamo sistemi di nuova generazione per una sicurezza impareggiabile e risultati mozzafiato."
+    },
+    "care": {
+      "title": "Un Viaggio Intimo",
+      "description": "Crediamo in un approccio su misura in cui la tua storia unica detta il piano, garantendo una cura profonda quanto i risultati."
+    },
+    "safety": {
+      "title": "Il Giuramento Silencioso",
+      "description": "Adesione ai protocolli di sicurezza più rigorosi al mondo. Il tuo benessere è la base invisibile di tutto ciò che facciamo."
+    },
+    "results": {
+      "title": "Appartenenza Naturale",
+      "description": "Siamo specializzati in risultati così raffinati e naturali da sembrare che ti siano sempre appartenuti."
+    }
+  },
+  "testimonials": {
+    "title": "Voci di Trasformazione",
+    "subtitle": "Le testimonianze più profonde del nostro mestiere sono i viaggi di coloro che serviamo."
+  },
+  "contactForm": {
+    "title": "Inizia il Tuo Percorso",
+    "subtitle": "Entra in un mondo di cure su misura. La tua trasformazione inizia con una conversazione privata.",
+    "name": "Nome Completo",
+    "email": "Indirizzo Email",
+    "phone": "Numero di Telefono",
+    "message": "Dettagli della Richiesta",
+    "sendMessage": "Invia Richiesta",
+    "success": "La tua richiesta è stata ricevuta. Ti contatteremo con discrezione.",
+    "error": "Impossibile inviare la richiesta. Contatta direttamente il nostro concierge."
+  },
+  "servicesPage": {
+    "title": "Lo Spettro Completo delle Cure",
+    "subtitle": "Un ampio portfolio progettato per esaltare la tua grazia naturale e il tuo benessere clinico."
+  },
+  "servicePage": {
+    "procedureTime": "Durata",
+    "anesthesia": "Anestesia",
+    "recoveryTime": "Ripristino",
+    "results": "Risultato",
+    "quickFacts": {
+      "varies": "Su misura",
+      "oneToThreeHours": "1-3 ore",
+      "localOrGeneral": "Locale o Generale",
+      "oneToTwoWeeks": "1-2 settimane",
+      "longLasting": "Duraturo",
+      "oneToTwoHours": "1-2 ore"
+    },
+    "aboutTheProcedure": "La Procedura",
+    "benefitsResults": "Benefici Clinici",
+    "benefitsDescription": "Ogni trattamento è un passo deliberato verso i tuoi obiettivi estetici, enfatizzando sia la salute che l'armonia visiva.",
+    "consultationRecovery": "Ripristino e Cura",
+    "consultationRecoveryDescription": "Il tuo viaggio è supportato da una roadmap completa, garantendo chiarezza e comfort dal dialogo iniziale alla rivelazione finale.",
+    "onThisPage": "In questa pagina",
+    "readyToLearnMore": "Pronto a saperne di più?",
+    "scheduleConsultation": "Pianifica oggi una consulenza personalizzata con i nostri esperti."
+  },
+  "aboutPage": {
+    "title": "Chi Siamo",
+    "storyTitle": "La Nostra Storia e i Nostri Valori",
+    "storyText": "Benvenuti in KIRA AESTHETIC, un luogo dove le aspirazioni di bellezza diventano realtà e ogni paziente è al centro di un'esperienza unica e trasformativa. KIRA AESTHETIC nasce dall'impegno per l'eccellenza medica, la cura personalizzata e un approccio profondamente umano alla medicina estetica. Ogni giorno accogliamo pazienti da tutto il mondo con una missione: aiutarvi a sentirvi più sicuri, felici e in armonia con voi stessi.",
+    "missionTitle": "La Nostra Missione",
+    "missionText": "La nostra missione è semplice ma significativa: migliorare la vita dei nostri pazienti. Ogni trattamento e procedura è accuratamente progettato per fornire risultati sicuri e naturali e un'esperienza personalizzata che rispetti e celebri l'unicità di ogni individuo.",
+    "visionTitle": "La Nostra Visione",
+    "visionText": "Crediamo che la bellezza non riguardi solo l'aspetto esteriore, ma anche la fiducia, il benessere e il sentirsi a proprio agio nella propria pelle. La nostra visione è diventare un riferimento di fiducia nella medicina estetica abbracciando costantemente l'innovazione, la tecnologia avanzata e i più alti standard di cura, senza compromettere la qualità.",
+    "valuesTitle": "I Nostri Valori",
+    "valuesExcellenceTitle": "Eccellenza Medica",
+    "valuesExcellenceText": "Ci impegniamo a rispettare i più alti standard di eccellenza medica. Ogni procedura viene eseguita con precisione, competenza e attenzione ai dettagli, utilizzando tecniche all'avanguardia, tecnologia moderna e materiali di alta qualità.",
+    "valuesCareTitle": "Cura Personalizzata",
+    "valuesCareText": "Ogni paziente è unico. Dalla prima consultazione alle cure post-trattamento, ci concentriamo sulla creazione di un'esperienza personalizzata in cui vi sentiate ascoltati, rispettati, supportati e valorizzati.",
+    "valuesInnovationTitle": "Innovazione",
+    "valuesInnovationText": "Abbracciamo costantemente l'innovazione, combinando tecniche avanzate e tecnologia moderna per fornire risultati sicuri, efficaci e raffinati.",
+    "valuesTransparencyTitle": "Trasparenza",
+    "valuesTransparencyText": "Crediamo nella chiarezza e nell'onestà. Dalla prima consultazione al piano di trattamento finale, ogni fase viene spiegata in modo chiaro e trasparente, senza sorprese.",
+    "valuesSocialTitle": "Responsabilità Sociale",
+    "valuesSocialText": "Crediamo che la bellezza significhi anche contribuire positivamente al mondo che ci circonda. Ci impegniamo a sostenere iniziative significative e a contribuire al benessere della nostra comunità.",
+    "whyTitle": "Perché Scegliere KIRA AESTHETIC?",
+    "whyTeamTitle": "Un Team Impegnato nell'Eccellenza",
+    "whyTeamText": "Il nostro team esperto si dedica a fornire i più alti standard di cura, combinando competenza, precisione e un approccio incentrato sul paziente per aiutarvi a raggiungere i vostri obiettivi estetici.",
+    "whySafeTitle": "Un Ambiente Sicuro e Moderno",
+    "whySafeText": "Le nostre strutture sono progettate per offrire comfort, sicurezza e tranquillità, supportate da moderne tecnologie e standard accuratamente mantenuti.",
+    "whyPersonalTitle": "Un'Esperienza Personalizzata",
+    "whyPersonalText": "Dalla prima consultazione al percorso di post-cura, il nostro team è qui per supportarvi in ogni fase del cammino. Ci prendiamo il tempo per capire i vostri obiettivi e creare un'esperienza di trattamento su misura per voi.",
+    "whyValueTitle": "Valore Eccezionale",
+    "whyValueText": "Crediamo che cure estetiche di alta qualità debbano essere accessibili senza compromettere la sicurezza, la competenza o i risultati. Il nostro obiettivo è offrire un valore eccezionale mantenendo i più alti standard di cura.",
+    "whyExpTitle": "Esperienze Reali dei Pazienti",
+    "whyExpText": "La fiducia e la soddisfazione dei nostri pazienti sono al centro di tutto ciò che facciamo. Le esperienze e i feedback di coloro che hanno scelto KIRA AESTHETIC riflettono il nostro impegno per la cura, la qualità e l'eccellenza.",
+    "commitmentTitle": "Il Nostro Impegno",
+    "commitmentText": "In KIRA AESTHETIC facciamo molto di più che fornire trattamenti estetici. Creiamo un viaggio. Ascoltiamo, supportiamo, guidiamo e celebriamo ogni passo con i nostri pazienti. La vostra fiducia, il vostro benessere e la vostra soddisfazione sono al centro di tutto ciò che facciamo.",
+    "contactTitle": "Contattaci",
+    "contactText": "Siamo qui per ascoltare, rispondere alle vostre domande e aiutarvi a esplorare i vostri obiettivi estetici. Contattateci per programmare una consultazione e scoprire come KIRA AESTHETIC può supportarvi nel vostro viaggio. La vostra trasformazione inizia qui."
+  },
+  "galleryPage": {
+    "title": "Maestria Svelata",
+    "subtitle": "Un portfolio visivo che riflette il sottile potere dell'eccellenza scientifica e della raffinatezza estetica."
+  },
+  "blogPage": {
+    "title": "L'Aesthetic Journal",
+    "subtitle": "Approfondimenti, innovazioni e prospettive esperte dall'avanguardia della medicina estetica.",
+    "readMore": "Leggi l'Articolo"
+  },
+  "faqPage": {
+    "title": "Knowledge Base",
+    "subtitle": "Affina la tua comprensione della nostra filosofia e dei protocolli chirurgici.",
+    "contactTitle": "Hai ancora domande?",
+    "contactSubtitle": "Se non trovi la risposta che cerchi, non esitare a contattarci.",
+    "faqs": [
+      {
+        "id": "faq1",
+        "question": "Qual è il primo passo per qualsiasi trattamento?",
+        "answer": "Il primo passo è sempre una consulenza personale con uno dei nostri specialisti. Discuteremo i tuoi obiettivi, valuteremo il tuo caso e ti proporremo un piano di trattamento personalizzato."
+      },
+      {
+        "id": "faq2",
+        "question": "Quanto dura il periodo di recupero per le procedure chirurgiche?",
+        "answer": "Il tempo di recupero varia notevolmente a seconda della procedura. Durante la tua consulenza, il nostro chirurgo ti fornirà informazioni dettagliate sulla tempistica di recupero prevista, sulle cure post-operatorie e su eventuali restrizioni di attività."
+      },
+      {
+        "id": "faq3",
+        "answer": "Diamo priorità al comfort del paziente. Per le procedure chirurgiche viene utilizzata l'anestesia. Per i trattamenti non chirurgici, utilizziamo creme anestetiche topiche e altre tecniche per ridurre al minimo qualsiasi disagio. La maggior parte dei pazienti riferisce un dolore minimo o nullo.",
+        "question": "I trattamenti sono dolorosi?"
+      },
+      {
+        "id": "faq4",
+        "question": "Come posso prenotare un appuntamento?",
+        "answer": "Puoi prenotare una consulenza chiamandoci direttamente, inviandoci un'e-mail o utilizzando il formulario di contatto sul nostro sito web. Il nostro team ti contatterà prontamente per fissare il tuo appuntamento."
+      },
+      {
+        "id": "faq5",
+        "question": "Offrite opzioni di finanziamento?",
+        "answer": "Sì, offriamo una varietà di opzioni di finanziamento per rendere i nostri trattamenti più accessibili. Si prega di contattare il nostro team amministrativo per saperne di più sui piani disponibili."
+      },
+      {
+        "id": "faq6",
+        "question": "Il mio naso sembrerà naturale dopo l'intervento?",
+        "answer": "Il nostro obiettivo primario è un aspetto naturale in ogni intervento chirurgico, qualcosa in cui ti sentirai sicuro e pronto a coordinare il mondo!"
+      },
+      {
+        "id": "faq7",
+        "question": "Quanto cambiamento posso aspettarmi nell'aspetto del mio naso?",
+        "answer": "Dalle centinaia di storie dei nostri pazienti, il cambiamento, essendo naturale, si adatterà al tuo viso ma potrebbe non essere la cosa che tutti noteranno al volo. Tuttavia, il tuo viso avrà tutto in armonia."
+      }
+    ]
+  },
+  "contactPage": {
+    "title": "Contattaci",
+    "subtitle": "Siamo qui per aiutare. Contattaci per qualsiasi domanda o per programmare la tua consulenza.",
+    "officeHours": "Orari di Apertura",
+    "mondayFriday": "Lunedì - Venerdì: 9:00 - 18:00",
+    "saturday": "Sabato: 10:00 - 16:00",
+    "sunday": "Domenica: Chiuso",
+    "location": "La Nostra Sede"
+  },
+  "chat": {
+    "welcome": "Benvenuto da Kira Aesthetic! Come posso aiutarti oggi?",
+    "inputPlaceholder": "Fai una domanda..."
+  },
+  "admin": {
+    "loginTitle": "Login Amministratore",
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "dashboard": "Pannello di Controllo",
+    "feedback": "Riepilogo Feedback",
+    "blogManagement": "Gestione Blog",
+    "logout": "Logout",
+    "feedbackTitle": "Riepilogo Feedback Clienti",
+    "feedbackSubtitle": "Incolla il feedback dei clienti qui sotto per generare un riepilogo conciso con spunti attuabili.",
+    "feedbackInput": "Inserisci qui il feedback dei clienti...",
+    "summarize": "Riepiloga",
+    "summary": "Riepilogo",
+    "blogTitle": "Gestisci Articoli del Blog",
+    "newPost": "Nuovo Articolo",
+    "postTitle": "Titolo",
+    "postDate": "Data",
+    "postAuthor": "Autore",
+    "actions": "Azioni",
+    "edit": "Modifica",
+    "delete": "Elimina"
+  },
+  "resultsCarousel": {
+    "title": "Risultati"
+  }
+}

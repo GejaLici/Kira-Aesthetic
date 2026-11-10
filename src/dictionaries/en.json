@@ -1,0 +1,304 @@
+
+{
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "gallery": "Gallery",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "bookConsultation": "Book a Consultation"
+  },
+  "footer": {
+    "description": "Kira Aesthetic is a premier clinic specializing in a wide range of aesthetic, dental, and medical treatments.",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us",
+    "address": "Street Name 123, City, Country",
+    "phone": "+123 456 7890",
+    "email": "contact@kiraaesthetic.com",
+    "legal": "© 2024 Kira Aesthetic. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "hero": {
+    "title": "The Art of Timeless Transformation",
+    "subtitle": "Discover world-class aesthetic, dental, and medical treatments at Kira Aesthetic. Your journey to confidence starts here.",
+    "ourServices": "Our Services",
+    "bookNow": "Book Now"
+  },
+  "serviceHighlights": {
+    "title": "The Curated Collection",
+    "subtitle": "Explore a spectrum of transformative treatments where medical mastery meets an uncompromising eye for natural detail.",
+    "explore": "Explore"
+  },
+  "serviceCategories": {
+    "face": "Face",
+    "breast": "Breast",
+    "body": "Body",
+    "aesthetics": "Aesthetics",
+    "dentistry": "Dentistry"
+  },
+  "services": {
+    "surgical": "Surgical",
+    "generalBody": "General Body",
+    "skinRejuvenation": "Skin Rejuvenation",
+    "plasmaArcRemovals": "Plasma Arc Removals",
+    "fillers": "Fillers",
+    "prosthetics": "Prothetik",
+    "orthodontics": "Orthodontics",
+    "therapy": "Therapy",
+    "surgicalDentistry": "Surgical Dentistry",
+    "pedodontics": "Pedodontics",
+    "beardTransplant": "Beard Transplant",
+    "browLift": "Brow Lift",
+    "cheekboneReshaping": "Cheekbone Reshaping",
+    "chinReshaping": "Chin Reshaping",
+    "earReshaping": "Ear Reshaping",
+    "eyebrowTransplant": "Eyebrow Transplant",
+    "eyelidSurgery": "Eyelid Surgery",
+    "faceLift": "Face Lift",
+    "hairTransplant": "Hair Transplant",
+    "rhinoplasty": "Rhinoplasty",
+    "breastAugmentation": "Breast Augmentation",
+    "breastLift": "Breast Lift",
+    "breastReconstruction": "Breast Reconstruction",
+    "breastReduction": "Breast Reduction",
+    "gynecomastia": "Gynecomastia",
+    "armLift": "Arm Lift",
+    "brazilianButtLift": "Brazilian Butt Lift",
+    "labiaplasty": "Labiaplasty",
+    "liposculpture": "Liposculpture",
+    "thighLift": "Thigh Lift",
+    "tummyTuck": "Tummy Tuck",
+    "liposuction": "Liposuction",
+    "sclerotherapy": "Sclerotherapy",
+    "lipolysis": "Lipolysis",
+    "strikeCell": "StrikeCell Cellulite Treatment",
+    "microdermabrasion": "Microdermabrasion",
+    "microneedling": "Microneedling",
+    "dermapen4": "Dermapen 4",
+    "multivitaminTreatment": "Multivitamin Treatment",
+    "prpFace": "PRP for the face",
+    "prpHair": "PRP for hair",
+    "whitePeeling": "White Peeling",
+    "xanthelasma": "Xanthelasma (Small, Medium, Large)",
+    "callus": "Callus (Small, Medium, Large)",
+    "wart": "Wart (Small, Large)",
+    "mole": "Mole (Small, Medium, Large)",
+    "cheekFiller": "Cheek Filler 2ml",
+    "jawlineFiller": "Jawline Filler 3ml",
+    "nasolabialFiller": "Nasolabial Wrinkle Filler",
+    "foreheadFiller": "Forehead Wrinkle Filler",
+    "lipFiller": "Lip Filler 2ml",
+    "compositeVeneers": "Composite Veneers",
+    "emaxVeneers": "E-Max Veneers",
+    "teethWhitening": "Teeth Whitening",
+    "crowns": "Crowns",
+    "dentalBridges": "Dental Bridges",
+    "dentures": "Dentures",
+    "fixedBraces": "Fixed Braces",
+    "invisalign": "Invisalign",
+    "removableAppliances": "Removable Appliances",
+    "infectedTeethTreatment": "Infected Teeth Treatment",
+    "tartarCleaning": "Tartar Cleaning",
+    "toothFillings": "Tooth Fillings",
+    "apicalResection": "Apical Resection",
+    "dentalImplants": "Dental Implants",
+    "toothExtraction": "Tooth Extraction",
+    "milkTeethTreatment": "Milk Teeth Treatment",
+    "toothFluoridation": "Tooth Fluoridation",
+    "toothSealants": "Tooth Sealants"
+  },
+  "whyChooseUs": {
+    "title": "The Kira Standard",
+    "subtitle": "Defining the intersection of clinical precision and the art of sophisticated rejuvenation.",
+    "expertise": {
+      "title": "Visionary Mastery",
+      "description": "A collective of board-certified specialists dedicated to the summit of medical excellence and aesthetic harmony."
+    },
+    "technology": {
+      "title": "Clinical Innovation",
+      "description": "Precision without compromise. We leverage next-generation systems for peerless safety and breathtaking results."
+    },
+    "care": {
+      "title": "An Intimate Journey",
+      "description": "We believe in a tailored approach where your unique story dictates the plan, ensuring care that is as profound as the results."
+    },
+    "safety": {
+      "title": "The Silent Oath",
+      "description": "Adhering to the world's most rigorous safety protocols. Your well-being is the invisible foundation of everything we do."
+    },
+    "results": {
+      "title": "Natural Belonging",
+      "description": "We specialize in results so effortless and refined, they feel like you have always belonged to them."
+    }
+  },
+  "testimonials": {
+    "title": "Voices of Transformation",
+    "subtitle": "The most profound testaments to our craft are the journeys of those we serve."
+  },
+  "contactForm": {
+    "title": "Begin Your Journey",
+    "subtitle": "Step into a world of tailored care. Your transformation starts with a private conversation.",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "message": "Enquiry Details",
+    "sendMessage": "Submit Request",
+    "success": "Your request has been received. We will contact you discreetly.",
+    "error": "Failed to send request. Please contact our concierge directly."
+  },
+  "servicesPage": {
+    "title": "The Full Spectrum of Care",
+    "subtitle": "An expansive portfolio designed to enhance your natural grace and clinical well-being."
+  },
+  "servicePage": {
+    "procedureTime": "Duration",
+    "anesthesia": "Anesthesia",
+    "recoveryTime": "Restoration",
+    "results": "Outcome",
+    "quickFacts": {
+      "varies": "Tailored",
+      "oneToThreeHours": "1-3 hours",
+      "localOrGeneral": "Local or General",
+      "oneToTwoWeeks": "1-2 weeks",
+      "longLasting": "Durable",
+      "oneToTwoHours": "1-2 Hours"
+    },
+    "aboutTheProcedure": "The Procedure",
+    "benefitsResults": "Clinical Benefits",
+    "benefitsDescription": "Each treatment is a deliberate step toward your aesthetic goals, emphasizing both health and visual harmony.",
+    "consultationRecovery": "Restoration & Care",
+    "consultationRecoveryDescription": "Your journey is supported by a comprehensive roadmap, ensuring clarity and comfort from the initial dialogue to the final reveal.",
+    "onThisPage": "On This Page",
+    "readyToLearnMore": "Ready to learn more?",
+    "scheduleConsultation": "Schedule a personalized consultation with our experts today."
+  },
+  "aboutPage": {
+    "title": "About Us",
+    "storyTitle": "Our Story & Values",
+    "storyText": "Welcome to KIRA AESTHETIC, a place where aspirations of beauty become a reality and every patient is at the heart of a unique and transformative experience. KIRA AESTHETIC is built on a commitment to medical excellence, personalized care, and a deeply human approach to aesthetic medicine. Every day, we welcome patients from around the world with one mission: to help you feel more confident, happier, and more in harmony with yourself.",
+    "missionTitle": "Our Mission",
+    "missionText": "Our mission is simple yet meaningful: to improve the lives of our patients. Every treatment and procedure is carefully designed to deliver safe, natural-looking results and a personalized experience that respects and celebrates each individual's uniqueness.",
+    "visionTitle": "Our Vision",
+    "visionText": "We believe that beauty is not only about appearance, but also about confidence, well-being, and feeling comfortable in your own skin. Our vision is to become a trusted reference in aesthetic medicine by continuously embracing innovation, advanced technology, and the highest standards of care — without compromising on quality.",
+    "valuesTitle": "Our Values",
+    "valuesExcellenceTitle": "Medical Excellence",
+    "valuesExcellenceText": "We are committed to the highest standards of medical excellence. Every procedure is performed with precision, expertise, and attention to detail, using advanced techniques, modern technology, and high-quality materials.",
+    "valuesCareTitle": "Personalized Care",
+    "valuesCareText": "Every patient is unique. From the first consultation to post-treatment care, we focus on creating a personalized experience where you feel heard, respected, supported, and valued.",
+    "valuesInnovationTitle": "Innovation",
+    "valuesInnovationText": "We continuously embrace innovation, combining advanced techniques and modern technology to provide safe, effective, and refined results.",
+    "valuesTransparencyTitle": "Transparency",
+    "valuesTransparencyText": "We believe in clarity and honesty. From your first consultation to the final treatment plan, every step is explained clearly and transparently, without surprises.",
+    "valuesSocialTitle": "Social Responsibility",
+    "valuesSocialText": "We believe that beauty also means contributing positively to the world around us. We are committed to supporting meaningful initiatives and contributing to the well-being of our wider community.",
+    "whyTitle": "Why Choose KIRA AESTHETIC?",
+    "whyTeamTitle": "A Team Committed to Excellence",
+    "whyTeamText": "Our experienced team is dedicated to providing the highest standards of care, combining expertise, precision, and a patient-first approach to help you achieve your aesthetic goals.",
+    "whySafeTitle": "A Safe and Modern Environment",
+    "whySafeText": "Our facilities are designed to provide comfort, safety, and peace of mind, supported by modern technology and carefully maintained standards.",
+    "whyPersonalTitle": "A Personalized Experience",
+    "whyPersonalText": "From your first consultation to your aftercare journey, our team is here to support you every step of the way. We take the time to understand your goals and create a treatment experience tailored specifically to you.",
+    "whyValueTitle": "Exceptional Value",
+    "whyValueText": "We believe that high-quality aesthetic care should be accessible without compromising on safety, expertise, or results. Our goal is to offer exceptional value while maintaining the highest standards of care.",
+    "whyExpTitle": "Real Patient Experiences",
+    "whyExpText": "The trust and satisfaction of our patients are at the heart of everything we do. The experiences and feedback of those who have chosen KIRA AESTHETIC reflect our commitment to care, quality, and excellence.",
+    "commitmentTitle": "Our Commitment",
+    "commitmentText": "At KIRA AESTHETIC, we do more than provide aesthetic treatments. We create a journey. We listen, support, guide, and celebrate every step with our patients. Your confidence, well-being, and satisfaction are at the heart of everything we do.",
+    "contactTitle": "Contact Us",
+    "contactText": "We are here to listen, answer your questions, and help you explore your aesthetic goals. Contact us to schedule a consultation and discover how KIRA AESTHETIC can support you on your journey. Your transformation begins here."
+  },
+  "galleryPage": {
+    "title": "Artistry Unveiled",
+    "subtitle": "A visual portfolio reflecting the subtle power of scientific excellence and aesthetic refinement."
+  },
+  "blogPage": {
+    "title": "The Aesthetic Journal",
+    "subtitle": "Insights, innovation, and expert perspectives from the forefront of aesthetic medicine.",
+    "readMore": "Read Article"
+  },
+  "faqPage": {
+    "title": "The Knowledge Base",
+    "subtitle": "Refining your understanding of our philosophy and surgical protocols.",
+    "contactTitle": "Still have questions?",
+    "contactSubtitle": "If you can't find the answer you're looking for, please don't hesitate to contact us.",
+    "faqs": [
+      {
+        "id": "faq1",
+        "question": "What is the first step to any treatment?",
+        "answer": "The first step is always a personal consultation with one of our specialists. We will discuss your goals, evaluate your case, and propose a personalized treatment plan for you."
+      },
+      {
+        "id": "faq2",
+        "question": "How long is the recovery period for surgical procedures?",
+        "answer": "Recovery time varies greatly depending on the procedure. During your consultation, our surgeon will provide you with detailed information about the expected recovery timeline, post-operative care, and any activity restrictions."
+      },
+      {
+        "id": "faq3",
+        "question": "Are the treatments painful?",
+        "answer": "We prioritize patient comfort. For surgical procedures, anesthesia is used. For non-surgical treatments, we use topical numbing creams and other techniques to minimize any discomfort. Most patients report minimal to no pain."
+      },
+      {
+        "id": "faq4",
+        "question": "How can I book an appointment?",
+        "answer": "You can book a consultation by calling us directly, sending us an email, or using the contact form on our website. Our team will get back to you promptly to schedule your appointment."
+      },
+      {
+        "id": "faq5",
+        "question": "Do you offer financing options?",
+        "answer": "Ja, we offer a variety of financing options to make our treatments more accessible. Please contact our administrative team to learn more about the plans available."
+      },
+      {
+        "id": "faq6",
+        "question": "Will my nose look natural after the surgery?",
+        "answer": "Our primary goal is a natural look in every surgery, something you will feel confident in and ready to get the world!"
+      },
+      {
+        "id": "faq7",
+        "question": "How much change can I expect in the appearance of my nose?",
+        "answer": "From our hundred of patients stories, the change, being natural, will suit your face but it may or not be the thing everybody will catch on the fly. However your face will have everything in harmony."
+      }
+    ]
+  },
+  "contactPage": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help. Reach out to us with any questions or to schedule your consultation.",
+    "officeHours": "Office Hours",
+    "mondayFriday": "Monday - Friday: 9:00 AM - 6:00 PM",
+    "saturday": "Saturday: 10:00 AM - 4:00 PM",
+    "sunday": "Sunday: Closed",
+    "location": "Our Location"
+  },
+  "chat": {
+    "welcome": "Welcome to Kira Aesthetic! How can I help you today?",
+    "inputPlaceholder": "Ask a question..."
+  },
+  "admin": {
+    "loginTitle": "Admin Login",
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "dashboard": "Dashboard",
+    "feedback": "Feedback Summarizer",
+    "blogManagement": "Blog Management",
+    "logout": "Logout",
+    "feedbackTitle": "Customer Feedback Summarizer",
+    "feedbackSubtitle": "Paste customer feedback below to generate a concise summary with actionable insights.",
+    "feedbackInput": "Enter customer feedback here...",
+    "summarize": "Summarize",
+    "summary": "Summary",
+    "blogTitle": "Manage Blog Posts",
+    "newPost": "New Post",
+    "postTitle": "Title",
+    "postDate": "Date",
+    "postAuthor": "Author",
+    "actions": "Actions",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "resultsCarousel": {
+    "title": "Results"
+  }
+}

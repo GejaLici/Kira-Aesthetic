@@ -1,0 +1,342 @@
+
+{
+  "Navigation": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Sobre Nosotros",
+    "gallery": "Galería",
+    "blog": "Blog",
+    "faq": "Preguntas Frecuentes",
+    "contact": "Contacto"
+  },
+  "Footer": {
+    "quickLinks": "Enlaces Rápidos",
+    "ourMission": "Nuestra Misión",
+    "tagline": "Dedicados a realzar su belleza natural y confianza.",
+    "copyright": "© {currentYear} Kira Aesthetic. Todos los derechos reservados.",
+    "addressTitle": "Kira Aesthetic",
+    "addressLine1": "123 Beauty Lane, Suite 100",
+    "addressLine2": "Aesthetica City, AC 12345",
+    "phone": "Teléfono: (123) 456-7890",
+    "email": "Correo: info@kiraaesthetic.com"
+  },
+  "HomePage": {
+    "Hero": {
+      "title": "Kira Aesthetic: Excelencia Italiana en Estética y Odontología",
+      "subtitle": "Desbloquee su máxima confianza y resplandor natural. Ofrecemos tratamientos expertos y personalizados, brindando resultados transformadores en operaciones estéticas avanzadas y atención dental integral.",
+      "subtitle_mobile": "Desbloquee su máxima confianza con tratamientos expertos y personalizados en estética y odontología.",
+      "button1": "Explore Nuestros Servicios de Estética y Dentales Expertos",
+      "button2": "Reserve su Consulta Confidencial Hoy"
+    },
+    "ServicesTeaser": {
+      "title": "Explore Nuestros Servicios de Estética y Dentales Insignia en Kira Aesthetic",
+      "description": "Descubra una selección curada de tratamientos avanzados en Kira Aesthetic, meticulosamente diseñados por nuestros expertos especialistas de Tirana para abordar sus aspiraciones estéticas y dentales únicas. Aprovechamos la tecnología de vanguardia y los enfoques personalizados, desde el rejuvenecimiento facial sofisticado y el contorno corporal hasta el bienestar dental integral y la restauración capilar transformadora.",
+      "button": "Ver Todos los Servicios Expertos de Kira Aesthetic",
+      "highlights": {
+        "facial": {
+          "title": "Estética Facial Avanzada",
+          "description": "Rejuvenezca y realce su belleza natural con nuestros tratamientos faciales de vanguardia, personalizados por los expertos estéticos de Tirana en Kira Aesthetic."
+        },
+        "body": {
+          "title": "Contorno Corporal Experto",
+          "description": "Logre su silueta ideal con nuestra amplia gama de soluciones de contorno corporal quirúrgicas y no quirúrgicas en Kira Aesthetic."
+        },
+        "dental": {
+          "title": "Bienestar Dental Integral",
+          "description": "Experimente la excelencia en el cuidado dental en Kira Aesthetic, desde mejoras cosméticas hasta tratamientos restauradores, para una sonrisa sana y radiante."
+        }
+      }
+    },
+    "WhyChooseUs": {
+      "title": "Por qué confiar su viaje estético a Kira Aesthetic",
+      "items": {
+        "item1": {
+          "title": "Experiencia Inigualable y Pericia Clínica",
+          "description": "Nuestro equipo de Kira Aesthetic está compuesto por médicos altamente calificados y esteticistas certificados con amplia experiencia, comprometidos con la formación avanzada continua y la prestación de una atención superior."
+        },
+        "item2": {
+          "title": "Tecnología de Vanguardia y Productos Premium",
+          "description": "Kira Aesthetic emplea tecnología estética avanzada y reconocida a nivel mundial, y productos premium clínicamente probados para garantizar resultados óptimos, duraderos y seguros en todos los tratamientos."
+        },
+        "item3": {
+          "title": "Planes de Tratamiento a Medida",
+          "description": "En Kira Aesthetic, el viaje de cada paciente es único. Adaptamos meticulosamente los planes de tratamiento a sus necesidades fisiológicas específicas, aspiraciones estéticas y bienestar general."
+        },
+        "item4": {
+          "title": "Ambiente Sofisticado y Discreto",
+          "description": "Nuestra clínica en Tirana está meticulosamente diseñada para garantizar el máximo confort, privacidad y tranquilidad, proporcionando un entorno sereno para sus tratamientos estéticos en Kira Aesthetic."
+        },
+        "item5": {
+          "title": "Resultados Naturalmente Armoniosos y Visibles",
+          "description": "Kira Aesthetic se compromete a ofrecer mejoras estéticas que complementen sus rasgos innatos, garantizando resultados refinados, de aspecto natural e impresionantemente visibles."
+        }
+      }
+    },
+    "GalleryTeaser": {
+      "title": "Eche un vistazo a nuestra galería: Resultados reales, espacios inspiradores de Kira Aesthetic",
+      "description": "Adéntrese en el mundo de Kira Aesthetic. Nuestra galería muestra la maestría de nuestros especialistas, la serenidad de nuestra clínica en Tirana y los resultados radiantes y que aumentan la confianza que logramos para nuestros valiosos clientes.",
+      "button": "Explorar la Galería Completa de Kira Aesthetic"
+    },
+    "Testimonials": {
+      "title": "Experiencias Reales: Lo que Dicen Nuestros Valiosos Clientes de Kira Aesthetic",
+      "button": "Comparta su Experiencia en Kira Aesthetic"
+    },
+    "BlogTeaser": {
+      "title": "Recién Salido del Blog de Kira Aesthetic: Perspectivas de Expertos",
+      "description": "Manténgase informado con las últimas perspectivas en medicina estética, avances en el cuidado dental y consejos de bienestar de nuestros expertos de Kira Aesthetic con sede en Tirana.",
+      "button": "Visitar el Blog de Kira Aesthetic",
+      "noPosts": "Aún no hay entradas en el blog. ¡Vuelva pronto para obtener información de expertos de Kira Aesthetic!"
+    },
+    "ContactForm": {
+      "title": "Comience su Transformación: Contacte a Nuestros Expertos de Kira Aesthetic en Tirana",
+      "nameLabel": "Su Nombre Completo",
+      "namePlaceholder": "p.ej., Alex Doe",
+      "emailLabel": "Su Dirección de Correo Electrónico",
+      "emailPlaceholder": "p.ej., alex.doe@example.com",
+      "messageLabel": "Su Consulta o Servicio Preferido",
+      "messagePlaceholder": "Cómo pueden ayudarle nuestros expertos en estética hoy? p.ej., 'Interesado en una consulta para rellenos dérmicos en Kira Aesthetic.'",
+      "button": "Enviar Consulta Segura a Kira Aesthetic",
+      "submitting": "Enviando...",
+      "successTitle": "¡Consulta Enviada con Éxito!",
+      "successDescription": "Gracias por contactar a Kira Aesthetic. Nuestro equipo revisará su mensaje y responderá a la brevedad.",
+      "errorTitle": "Error al Enviar la Consulta",
+      "errorDescription": "No se pudo guardar su mensaje. Por favor, inténtelo de nuevo. Error: {errorMessage}"
+    },
+     "FaqSection": {
+      "subtitle": "Preguntas Frecuentes",
+      "title": {
+        "question": "¿Pregunta?",
+        "lookHere": "Mire aquí."
+      },
+      "contactCard": {
+        "title": "¿Tiene preguntas diferentes?",
+        "description": "Nuestro equipo responderá a todas sus preguntas. Aseguramos una respuesta rápida.",
+        "button": "Contáctenos"
+      },
+      "features": {
+        "shipping": {
+          "title": "Envío Gratuito",
+          "description": "Envío gratuito para pedidos superiores a $50"
+        },
+        "payment": {
+          "title": "Pago Flexible",
+          "description": "Múltiples opciones de pago seguras"
+        },
+        "support": {
+          "title": "Soporte 24x7",
+          "description": "Apoyamos en línea todos los días"
+        }
+      }
+    }
+  },
+  "AboutPage": {
+    "title": "Sobre Kira Aesthetic",
+    "intro": "Bienvenido a Kira Aesthetic, su principal destino para servicios estéticos transformadores. Nos dedicamos a ayudarle a alcanzar sus objetivos de belleza y bienestar con una atención personalizada y tratamientos de vanguardia.",
+    "missionTitle": "Nuestra Misión",
+    "missionText": "Empoderar a las personas para que se sientan seguras y hermosas en su propia piel, proporcionando tratamientos estéticos seguros, eficaces e innovadores adaptados a sus necesidades únicas.",
+    "visionTitle": "Nuestra Visión",
+    "visionText": "Ser un nombre líder y de confianza en la industria estética, conocido por nuestra excelencia clínica, resultados excepcionales y un enfoque compasivo y centrado en el paciente.",
+    "teamTitle": "Nuestro Equipo de Expertos",
+    "teamText": "Nuestro equipo de profesionales certificados y experimentados es la piedra angular de Kira Aesthetic. Comprometidos con los más altos estándares de atención, nuestros expertos se mantienen a la vanguardia de la medicina estética para ofrecerle los mejores resultados posibles.",
+    "consultationButton": "Programe su Consulta"
+  },
+  "BlogPage": {
+    "title": "El Blog de Kira Aesthetic",
+    "description": "Su fuente de información experta, consejos y las últimas noticias en mejora estética y bienestar personal.",
+    "noPosts": "Aún no hay entradas en el blog. ¡Vuelva pronto para obtener información de expertos!"
+  },
+  "ContactPage": {
+    "title": "Contactar a Kira Aesthetic",
+    "description": "Estamos aquí para responder sus preguntas y ayudarle a comenzar su viaje.",
+    "infoTitle": "Nuestra Información",
+    "addressTitle": "Dirección",
+    "addressText": "123 Beauty Lane, Aesthetica City, AC 12345",
+    "phoneTitle": "Teléfono",
+    "phoneText": "(123) 456-7890",
+    "emailTitle": "Correo Electrónico",
+    "emailText": "contact@kiraaesthetic.com",
+    "formTitle": "Envíenos un Mensaje",
+    "namePlaceholder": "Su Nombre",
+    "emailPlaceholder": "Su Correo Electrónico",
+    "messagePlaceholder": "Su Mensaje",
+    "submitButton": "Enviar Mensaje",
+    "submittingButton": "Enviando...",
+    "successTitle": "¡Mensaje Enviado!",
+    "successDescription": "Gracias por contactarnos. Nos pondremos en contacto en breve.",
+    "errorTitle": "Error de Envío",
+    "errorDescription": "No se pudo enviar su mensaje. Por favor, inténtelo de nuevo. Error: {errorMessage}",
+    "incompleteFormTitle": "Formulario Incompleto",
+    "incompleteFormDescription": "Por favor, complete todos los campos antes de enviar."
+  },
+  "FaqPage": {
+    "title": "Preguntas Frecuentes",
+    "description": "Encuentre respuestas a preguntas comunes sobre nuestros servicios y procedimientos.",
+    "moreQuestionsTitle": "Tiene Más Preguntas?",
+    "moreQuestionsText": "Si su pregunta no se responde aquí, no dude en contactarnos. Nuestro amable equipo está listo para ayudarle.",
+    "contactButton": "Contáctenos"
+  },
+  "GalleryPage": {
+    "title": "Galería de Kira Aesthetic",
+    "description": "Explore fotos de antes y después y vea los impresionantes resultados que nuestros clientes han logrado.",
+    "noImages": "Nuestra galería se está actualizando actualmente. ¡Vuelva pronto para ver transformaciones inspiradoras!"
+  },
+  "ServicesPage": {
+    "title": "Nuestros Servicios",
+    "description": "Explore nuestra amplia gama de servicios estéticos y dentales. Nuestro equipo de expertos está dedicado a proporcionar una atención personalizada con la última tecnología para ayudarle a lograr los resultados deseados.",
+    "categoryTitle": "Categorías de Servicios",
+    "selectCategoryPrompt": "Por favor, seleccione una categoría para ver los servicios."
+  },
+  "SingleServicePage": {
+    "backToServices": "Volver a todos los servicios",
+    "ctaTitle": "Listo para su Transformación?",
+    "ctaDescription": "Programe una consulta personalizada con nuestros expertos para discutir sus objetivos estéticos.",
+    "ctaButton": "Reserve su Consulta de {serviceName}",
+    "serviceNotFoundTitle": "Servicio No Encontrado | Kira Aesthetic",
+    "serviceNotFoundDescription": "El servicio estético o dental solicitado no se pudo encontrar. Por favor, explore nuestra lista completa de tratamientos.",
+    "sidebarTitle": "En esta página"
+  },
+  "ServicesData": {
+    "categories": {
+        "face": "Rostro",
+        "breast": "Pecho",
+        "body": "Cuerpo",
+        "aesthetics": "Tratamientos de Estética",
+        "dentistry": "Odontología"
+    },
+    "groups": {
+        "nonSurgical": "No Quirúrgico",
+        "surgical": "Quirúrgico",
+        "hairRestoration": "Restauración Capilar",
+        "injectables": "Inyectables",
+        "skinRejuvenation": "Rejuvenecimiento de la Piel",
+        "bodyGeneral": "Cuerpo General",
+        "plasmaArc": "Eliminaciones con Arco de Plasma",
+        "aesthetics": "Estética",
+        "prosthetics": "Prótesis",
+        "orthodontics": "Ortodoncia",
+        "therapy": "Terapia",
+        "pedodontics": "Pedodoncia (Odontología Infantil)"
+    },
+    "services": {
+        "botox": { "name": "Botox", "brief": "Suaviza las arrugas dinámicas para una apariencia fresca y juvenil." },
+        "dermalFillers": { "name": "Rellenos Dérmicos", "brief": "Restaura el volumen, contornea el rostro y suaviza las líneas profundas." },
+        "chemicalPeels": { "name": "Peelings Químicos", "brief": "Mejora la textura, el tono y la claridad de la piel eliminando las capas externas." },
+        "darkCircles": { "name": "Ojeras", "brief": "Tratamientos para reducir la apariencia de las ojeras oscuras." },
+        "eyelidsPlasmaArc": { "name": "Arco de plasma para párpados", "brief": "Estiramiento no quirúrgico de los párpados mediante energía de plasma." },
+        "jawlineContouring": { "name": "Contorno de mandíbula (Rellenos)", "brief": "Mejora y define la línea de la mandíbula con rellenos inyectables." },
+        "lipReshaping": { "name": "Remodelación de labios", "brief": "Mejora personalizada de los labios para una mejor forma, volumen y simetría." },
+        "microdermabrasion": { "name": "Microdermoabrasión", "brief": "Una exfoliación suave para refrescar la piel y mejorar la textura." },
+        "microneedling": { "name": "Microneedling", "brief": "Estimula la producción natural de colágeno para una piel más firme y suave." },
+        "multivitaminTreatment": { "name": "Tratamiento multivitamínico", "brief": "Infunde la piel con vitaminas esenciales para la salud y el resplandor." },
+        "nonSurgicalNoseReshaping": { "name": "Remodelación de Nariz No Quirúrgica", "brief": "Corrige protuberancias y asimetrías con rellenos inyectables." },
+        "prpHair": { "name": "PRP para el cabello", "brief": "Utiliza su propio plasma para estimular el crecimiento y el grosor del cabello." },
+        "prpFace": { "name": "PRP para el rostro", "brief": "El 'Facial Vampiro' rejuvenece la piel estimulando el colágeno." },
+        "radiofrequency": { "name": "Radiofrecuencia", "brief": "Tratamiento a base de calor para tensar la piel y estimular el colágeno." },
+        "deepWrinkleFilling": { "name": "Relleno de Arrugas Profundas", "brief": "Aplicación de relleno específica para arrugas y pliegues faciales profundos." },
+        "whitePeeling": { "name": "Peeling blanco", "brief": "Un peeling especializado para iluminar y unificar el tono de la piel." },
+        "wrinkleFillers": { "name": "Rellenos de arrugas", "brief": "Tratamientos inyectables para suavizar y alisar las arrugas faciales." },
+        "xanthelasmaPlasmaArc": { "name": "Xantelasma, arco de plasma", "brief": "Eliminación no quirúrgica de depósitos de colesterol en los párpados." },
+        "beardTransplant": { "name": "Trasplante de Barba", "brief": "Agrega cabello quirúrgicamente para crear una barba mas completa y definida." },
+        "browLift": { "name": "Levantamiento de Cejas", "brief": "Eleva las cejas para reducir las arrugas de la frente y la caída de los párpados." },
+        "cheekboneReshaping": { "name": "Remodelación de Pómulos", "brief": "Mejora o reducción quirúrgica de los pómulos." },
+        "chinReshaping": { "name": "Remodelación de Mentón", "brief": "Altera quirúrgicamente el mentón para mejorar la proporción facial." },
+        "earReshaping": { "name": "Remodelación de Orejas", "brief": "Corrige el tamaño, la posición o la forma de las orejas." },
+        "eyebrowTransplant": { "name": "Trasplante de Cejas", "brief": "Restaura o engrosa las cejas mediante el trasplante de cabello." },
+        "eyelidSurgery": { "name": "Cirugía de Párpados", "brief": "Elimina el exceso de piel o grasa de los párpados para una apariencia más joven." },
+        "faceLift": { "name": "Lifting Facial", "brief": "Levanta y tensa quirúrgicamente los tejidos faciales para una apariencia definida." },
+        "hairTransplant": { "name": "Trasplante de Cabello", "brief": "Una solución quirúrgica permanente para la caída y el adelgazamiento del cabello." },
+        "rhinoplasty": { "name": "Rinoplastia", "brief": "Remodela quirúrgicamente la nariz para mejorar la armonía facial." },
+        "breastAugmentation": { "name": "Aumento de Senos", "brief": "Mejora el tamaño y la forma de los senos mediante implantes o transferencia de grasa." },
+        "breastLift": { "name": "Levantamiento de Senos", "brief": "Levanta y reafirma los senos eliminando el exceso de piel." },
+        "breastReconstruction": { "name": "Reconstrucción de Senos", "brief": "Recrea la forma, apariencia y tamaño del seno." },
+        "breastReduction": { "name": "Reducción de Senos", "brief": "Reduce el tamaño de los senos para una mayor comodidad y proporción." },
+        "gynecomastia": { "name": "Ginecomastia", "brief": "Corrección quirúrgica del tejido mamario masculino sobredesarrollado." },
+        "armLift": { "name": "Lifting de Brazos", "brief": "Elimina la piel flácida de la parte superior de los brazos para una apariencia tonificada." },
+        "brazilianButtLift": { "name": "Levantamiento de Glúteos Brasileño", "brief": "Mejora el tamaño y la forma de los glúteos mediante la transferencia de grasa." },
+        "labiaplasty": { "name": "Labioplastia", "brief": "Procedimiento quirúrgico para remodelar o reducir los labios menores." },
+        "liposculpture": { "name": "Lipoescultura", "brief": "Liposucción avanzada para un contorno corporal y definición precisos." },
+        "thighLift": { "name": "Lifting de Muslos", "brief": "Remodela los muslos eliminando el exceso de piel y grasa." },
+        "tummyTuck": { "name": "Abdominoplastia", "brief": "Aplana el abdomen eliminando el exceso de grasa y piel." },
+        "liposuction": { "name": "Liposucción", "brief": "Elimina quirúrgicamente los depósitos de grasa rebeldes para un contorno más delgado." },
+        "carboxytherapy": { "name": "Carboxiterapia", "brief": "Mejora la celulitis, las estrías y las ojeras con CO2." },
+        "celluliteTreatment": { "name": "Tratamiento de la celulitis", "brief": "Diversos tratamientos para reducir la apariencia de la celulitis." },
+        "laserHairRemoval": { "name": "Depilación láser", "brief": "Una solución a largo plazo para reducir el crecimiento de vello no deseado." },
+        "lipolysis": { "name": "Lipólisis", "brief": "Tratamiento inyectable para disolver pequeñas y rebeldes bolsas de grasa." },
+        "plasmaArcBody": { "name": "Arco de plasma (Cuerpo)", "brief": "Estiramiento y rejuvenecimiento de la piel no quirúrgico para el cuerpo." },
+        "sclerotherapy": { "name": "Escleroterapia", "brief": "Trata eficazmente las venas varicosas y arañas vasculares en las piernas." },
+        "compositeVeneers": { "name": "Carillas de composite", "brief": "Carillas aplicadas directamente para mejorar su sonrisa en una sola visita." },
+        "eMaxVeneers": { "name": "Carillas E-Max", "brief": "Carillas de cerámica de alta resistencia y durabilidad para una sonrisa deslumbrante." },
+        "teethWhitening": { "name": "Blanqueamiento dental", "brief": "Ilumina su sonrisa con tratamientos de blanqueamiento de grado profesional." },
+        "crowns": { "name": "Coronas", "brief": "Una funda que se coloca sobre un diente para restaurar su forma, tamaño y fuerza." },
+        "dentalBridges": { "name": "Puentes dentales", "brief": "Cierra el espacio creado por uno o más dientes perdidos." },
+        "dentures": { "name": "Dentaduras postizas", "brief": "Reemplazo removible para dientes perdidos y tejidos circundantes." },
+        "fixedBraces": { "name": "Aparatos fijos", "brief": "Aparatos tradicionales para un enderezamiento y alineación dental eficaces." },
+        "invisalign": { "name": "Invisalign", "brief": "Alineadores transparentes y removibles para enderezar sus dientes discretamente." },
+        "removableAppliances": { "name": "Aparatos removibles", "brief": "Dispositivos de ortodoncia personalizados que se pueden quitar para limpiar." },
+        "infectedTeethTreatment": { "name": "Tratamiento de dientes infectados", "brief": "Terapia de conducto radicular para salvar un diente muy cariado o infectado." },
+        "tartarCleaning": { "name": "Limpieza de sarro", "brief": "Limpieza profesional para eliminar la placa endurecida y el sarro." },
+        "toothFillings": { "name": "Empastes dentales", "brief": "Restaura un diente dañado por caries a su función normal." },
+        "apicalResection": { "name": "Resección apical", "brief": "Procedimiento quirúrgico para eliminar la punta de la raíz de un diente." },
+        "dentalImplants": { "name": "Implantes dentales", "brief": "Una solución permanente y de aspecto natural para los dientes perdidos." },
+        "toothExtraction": { "name": "Extracción de dientes", "brief": "Extracción de un diente de su alvéolo en el hueso." },
+        "milkTeethTreatment": { "name": "Tratamiento de dientes de leche", "brief": "Cuidado dental especializado para los dientes primarios de los niños." },
+        "toothFluoridation": { "name": "Fluoración dental", "brief": "Aplicación de flúor para hacer los dientes más resistentes a las caries." },
+        "toothSealants": { "name": "Selladores dentales", "brief": "Una capa protectora para prevenir las caries en los dientes posteriores." }
+    }
+  },
+  "GalleryData": {
+    "galleryAlt1": "Resultados de rejuvenecimiento facial",
+    "galleryAlt2": "Transformación de contorno corporal",
+    "galleryAlt3": "Antes y después de aumento de senos",
+    "galleryAlt4": "Resultado de rinoplastia",
+    "galleryAlt5": "Mejora de relleno de labios",
+    "galleryAlt6": "Resultados de abdominoplastia"
+  },
+  "TestimonialsData": {
+    "testimonial1": {
+      "quote": "¡Kira Aesthetic transformó mi piel! El personal es increíblemente profesional y atento. Recomiendo encarecidamente su experiencia para cualquiera que busque tratamientos estéticos de primer nivel en Tirana.",
+      "name": "Anna K."
+    },
+    "testimonial2": {
+      "quote": "Estaba nerviosa por mi primer procedimiento estético, pero el equipo de Kira Aesthetic me hizo sentir completamente a gusto. ¡Los resultados son fantásticos y tan naturales! Profesionales verdaderamente cualificados.",
+      "name": "Mark T."
+    },
+    "testimonial3": {
+      "quote": "La mejor clínica estética de Tirana, ¡sin duda! Instalaciones modernas, excepcionalmente limpias y los resultados hablan por sí solos. ¡Gracias, Kira Aesthetic, por su excelente atención!",
+      "name": "Linda S."
+    }
+  },
+  "FaqData": {
+    "faq1": {
+      "question": "Qué debo esperar durante mi primera consulta?",
+      "answer": "Su primera consulta es una discusión exhaustiva con uno de nuestros especialistas. Discutiremos sus objetivos, evaluaremos sus necesidades y recomendaremos un plan de tratamiento personalizado. Es una gran oportunidad para hacer cualquier pregunta que tenga."
+    },
+    "faq2": {
+      "question": "Son dolorosos los tratamientos?",
+      "answer": "Priorizamos su comodidad. La mayoría de los tratamientos no invasivos implican una incomodidad mínima. Para procedimientos más sensibles, utilizamos anestésicos tópicos u otros métodos para garantizar una experiencia cómoda."
+    },
+    "faq3": {
+      "question": "Cuánto dura el tiempo de recuperación?",
+      "answer": "El tiempo de recuperación varía según el procedimiento. Los tratamientos no invasivos a menudo no tienen tiempo de inactividad, lo que le permite volver a sus actividades diarias de inmediato. Los procedimientos quirúrgicos requieren un período de recuperación más largo, y le proporcionaremos instrucciones detalladas de cuidado posterior."
+    },
+    "faq4": {
+      "question": "Cómo sé qué servicio es el adecuado para mí?",
+      "answer": "Nuestro equipo de expertos le guiará. Durante su consulta, le ayudaremos a elegir los tratamientos más eficaces para lograr los resultados deseados en función de su anatomía y objetivos únicos."
+    },
+    "faq5": {
+      "question": "Cuáles son sus opciones de pago?",
+      "answer": "Aceptamos las principales tarjetas de crédito, y pueden haber opciones de financiamiento disponibles para ciertos procedimientos. Póngase en contacto con nuestra oficina para obtener información más detallada sobre pagos y financiamiento."
+    },
+    "faq6": {
+        "question": "¿Qué tipos de productos ofrecen?",
+        "answer": "Ofrecemos una gama completa de servicios estéticos y dentales, tanto quirúrgicos como no quirúrgicos. Esto incluye rejuvenecimiento facial como liftings y Botox, contorno corporal como liposucción, y una suite completa de cuidado dental desde carillas cosméticas hasta implantes."
+    }
+  },
+  "SingleBlogPostPage": {
+    "backToBlog": "Volver al Blog"
+  },
+  "Common": {
+    "readMore": "Leer Más",
+    "by": "Por"
+  }
+}

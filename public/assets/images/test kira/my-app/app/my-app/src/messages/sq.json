@@ -1,0 +1,342 @@
+
+{
+  "Navigation": {
+    "home": "Kreu",
+    "services": "Shërbimet",
+    "about": "Rreth Nesh",
+    "gallery": "Galeria",
+    "blog": "Blogu",
+    "faq": "Pyetje të Shpeshta",
+    "contact": "Kontakti"
+  },
+  "Footer": {
+    "quickLinks": "Linqe të Shpejta",
+    "ourMission": "Misioni Ynë",
+    "tagline": "Përkushtuar përmirësimit të bukurisë dhe besimit tuaj natyral.",
+    "copyright": "© {currentYear} Kira Aesthetic. Të gjitha të drejtat e rezervuara.",
+    "addressTitle": "Kira Aesthetic",
+    "addressLine1": "123 Beauty Lane, Suite 100",
+    "addressLine2": "Aesthetica City, AC 12345",
+    "phone": "Telefoni: (123) 456-7890",
+    "email": "Email: info@kiraaesthetic.com"
+  },
+  "HomePage": {
+    "Hero": {
+      "title": "Kira Aesthetic: Ekselencë Italiane në Estetikë dhe Stomatologji",
+      "subtitle": "Zhbllokoni kulmin e besimit dhe shkëlqimin tuaj natyral. Ne ofrojmë trajtime eksperte dhe të personalizuara, duke dhënë rezultate transformuese në operacionet e avancuara estetike dhe kujdesin e plotë dentar.",
+      "subtitle_mobile": "Zhbllokoni kulmin e besimit tuaj me trajtime eksperte dhe të personalizuara në estetikë dhe stomatologji.",
+      "button1": "Eksploroni Shërbimet tona Eksperte Estetike dhe Dentare",
+      "button2": "Rezervoni Konsultën tuaj Konfidenciale Sot"
+    },
+    "ServicesTeaser": {
+      "title": "Eksploroni Shërbimet tona të Veçanta Estetike dhe Dentare në Kira Aesthetic",
+      "description": "Zbuloni një përzgjedhje të kuruar të trajtimeve të avancuara në Kira Aesthetic, të dizajnuara me përpikëri nga specialistët tanë ekspertë në Tiranë për të adresuar aspiratat tuaja unike estetike dhe dentare. Ne përdorim teknologji të fundit dhe qasje të personalizuara, nga rinovimi i sofistikuar i fytyrës dhe konturimi i trupit deri te mirëqenia e plotë dentare dhe restaurimi transformues i flokëve.",
+      "button": "Shikoni të gjitha Shërbimet Eksperte të Kira Aesthetic",
+      "highlights": {
+        "facial": {
+          "title": "Estetikë e Avancuar e Fytyrës",
+          "description": "Rinovoni dhe përmirësoni bukurinë tuaj natyrale me trajtimet tona të fundit të fytyrës, të personalizuara nga ekspertët e estetikës së Tiranës në Kira Aesthetic."
+        },
+        "body": {
+          "title": "Konturim Ekspert i Trupit",
+          "description": "Arrini siluetën tuaj ideale me gamën tonë të gjerë të zgjidhjeve kirurgjikale dhe jo-kirurgjikale të konturimit të trupit në Kira Aesthetic."
+        },
+        "dental": {
+          "title": "Mirëqenie e Plotë Dentare",
+          "description": "Përjetoni ekselencë në kujdesin dentar në Kira Aesthetic, nga përmirësimet kozmetike te trajtimet restauruese, për një buzëqeshje të shëndetshme dhe rrezatuese."
+        }
+      }
+    },
+    "WhyChooseUs": {
+      "title": "Pse t'ia besoni udhëtimin tuaj estetik Kira Aesthetic?",
+      "items": {
+        "item1": {
+          "title": "Përvojë e Pashoqe dhe Ekspertizë Klinike",
+          "description": "Ekipi ynë i Kira Aesthetic përbëhet nga mjekë shumë të kualifikuar dhe estetistë të certifikuar me përvojë të gjerë, të përkushtuar ndaj trajnimeve të avancuara të vazhdueshme dhe ofrimit të kujdesit superior."
+        },
+        "item2": {
+          "title": "Teknologji e Fundit dhe Produkte Premium",
+          "description": "Kira Aesthetic përdor teknologji estetike të avancuar dhe të njohur globalisht dhe produkte premium, të provuara klinikisht për të siguruar rezultate optimale, të qëndrueshme dhe të sigurta për të gjitha trajtimet."
+        },
+        "item3": {
+          "title": "Shtigje Trajtimi të Personalizuara",
+          "description": "Në Kira Aesthetic, udhëtimi i çdo pacienti është unik. Ne përshtatim me përpikëri planet e trajtimit sipas nevojave tuaja specifike fiziologjike, aspiratave estetike dhe mirëqenies së përgjithshme."
+        },
+        "item4": {
+          "title": "Ambient i Sofistikuar dhe Diskret",
+          "description": "Klinika jonë në Tiranë është projektuar me përpikëri për të siguruar komoditetin, privatësinë dhe qetësinë maksimale, duke ofruar një mjedis të qetë për trajtimet tuaja estetike në Kira Aesthetic."
+        },
+        "item5": {
+          "title": "Rezultate Natyrale Harmonike, të Dukshme",
+          "description": "Kira Aesthetic është e përkushtuar të ofrojë përmirësime estetike që plotësojnë tiparet tuaja të lindura, duke siguruar rezultate të rafinuara, me pamje natyrale dhe dukshëm mbresëlënëse."
+        }
+      }
+    },
+    "GalleryTeaser": {
+      "title": "Hidhini një sy Galerisë sonë: Rezultate Reale, Hapësira Inspiruese të Kira Aesthetic",
+      "description": "Hyni në botën e Kira Aesthetic. Galeria jonë tregon mjeshtërinë e specialistëve tanë, qetësinë e klinikës sonë në Tiranë dhe rezultatet rrezatuese dhe që rrisin besimin që arrijmë për klientët tanë të vlerësuar.",
+      "button": "Eksploroni Galerinë e Plotë të Kira Aesthetic"
+    },
+    "Testimonials": {
+      "title": "Përvoja Reale: Çfarë Thonë Klientët tanë të Vlerësuar të Kira Aesthetic",
+      "button": "Ndani Përvojën tuaj me Kira Aesthetic"
+    },
+    "BlogTeaser": {
+      "title": "Të reja nga Blogu i Kira Aesthetic: Këndvështrime Ekspertësh",
+      "description": "Qëndroni të informuar me njohuritë më të fundit në mjekësinë estetike, përparimet në kujdesin dentar dhe këshillat për mirëqenien nga ekspertët tanë të Kira Aesthetic me bazë në Tiranë.",
+      "button": "Vizitoni Blogun e Kira Aesthetic",
+      "noPosts": "Ende nuk ka postime në blog. Kthehuni së shpejti për njohuri ekspertësh nga Kira Aesthetic!"
+    },
+    "ContactForm": {
+      "title": "Filloni Transformimin tuaj: Kontaktoni Ekspertët tanë të Kira Aesthetic në Tiranë",
+      "nameLabel": "Emri juaj i plotë",
+      "namePlaceholder": "p.sh., Alex Doe",
+      "emailLabel": "Adresa juaj e Email-it",
+      "emailPlaceholder": "p.sh., alex.doe@example.com",
+      "messageLabel": "Kërkesa juaj ose Shërbimi i Preferuar",
+      "messagePlaceholder": "Si mund t'ju ndihmojnë ekspertët tanë të estetikës sot? p.sh., 'I interesuar për një konsultë për mbushës dermalë në Kira Aesthetic.'",
+      "button": "Dërgoni Kërkesë të Sigurt te Kira Aesthetic",
+      "submitting": "Duke dërguar...",
+      "successTitle": "Kërkesa u Dërgua me Sukses!",
+      "successDescription": "Faleminderit që kontaktuat Kira Aesthetic. Ekipi ynë do të shqyrtojë mesazhin tuaj dhe do të përgjigjet menjëherë.",
+      "errorTitle": "Gabim gjatë Dërgimit të Kërkesës",
+      "errorDescription": "Dështoi ruajtja e mesazhit tuaj. Ju lutemi provoni përsëri. Gabimi: {errorMessage}"
+    },
+    "FaqSection": {
+      "subtitle": "Pyetje të Shpeshta",
+      "title": {
+        "question": "Pyetje?",
+        "lookHere": "Shikoni këtu."
+      },
+      "contactCard": {
+        "title": "Keni pyetje të tjera?",
+        "description": "Ekipi ynë do t'u përgjigjet të gjitha pyetjeve tuaja. Ne sigurojmë një përgjigje të shpejtë.",
+        "button": "Na Kontaktoni"
+      },
+      "features": {
+        "shipping": {
+          "title": "Transport Falas",
+          "description": "Transport falas për porosi mbi 50$"
+        },
+        "payment": {
+          "title": "Pagesë Fleksibël",
+          "description": "Opsione të shumta pagese të sigurta"
+        },
+        "support": {
+          "title": "Mbështetje 24x7",
+          "description": "Ne mbështesim online gjatë gjithë ditëve"
+        }
+      }
+    }
+  },
+  "AboutPage": {
+    "title": "Rreth Kira Aesthetic",
+    "intro": "Mirë se vini në Kira Aesthetic, destinacioni juaj kryesor për shërbime estetike transformuese. Ne jemi të përkushtuar t'ju ndihmojmë të arrini qëllimet tuaja të bukurisë dhe mirëqenies me kujdes të personalizuar dhe trajtime të fundit.",
+    "missionTitle": "Misioni Ynë",
+    "missionText": "Të fuqizojmë individët të ndihen të sigurt dhe të bukur në lëkurën e tyre duke ofruar trajtime estetike të sigurta, efektive dhe inovative të përshtatura për nevojat e tyre unike.",
+    "visionTitle": "Vizioni Ynë",
+    "visionText": "Të jemi një emër udhëheqës dhe i besuar në industrinë estetike, i njohur për përsosmërinë tonë klinike, rezultatet e jashtëzakonshme dhe një qasje të dhembshur dhe me në qendër pacientin.",
+    "teamTitle": "Ekipi Ynë i Ekspertëve",
+    "teamText": "Ekipi ynë i profesionistëve të certifikuar dhe me përvojë është gurthemeli i Kira Aesthetic. Të përkushtuar ndaj standardeve më të larta të kujdesit, ekspertët tanë qëndrojnë në pararojë të mjekësisë estetike për t'ju sjellë rezultatet më të mira të mundshme.",
+    "consultationButton": "Caktoni Konsultën tuaj"
+  },
+  "BlogPage": {
+    "title": "Blogu i Kira Aesthetic",
+    "description": "Burimi juaj për njohuri ekspertësh, këshilla dhe lajmet më të fundit në përmirësimin estetik dhe mirëqenien personale.",
+    "noPosts": "Ende nuk ka postime në blog. Kthehuni së shpejti për njohuri ekspertësh!"
+  },
+  "ContactPage": {
+    "title": "Kontaktoni Kira Aesthetic",
+    "description": "Ne jemi këtu për t'iu përgjigjur pyetjeve tuaja dhe për t'ju ndihmuar të filloni udhëtimin tuaj.",
+    "infoTitle": "Informacionet Tona",
+    "addressTitle": "Adresa",
+    "addressText": "123 Beauty Lane, Aesthetica City, AC 12345",
+    "phoneTitle": "Telefoni",
+    "phoneText": "(123) 456-7890",
+    "emailTitle": "Email",
+    "emailText": "contact@kiraaesthetic.com",
+    "formTitle": "Na Dërgoni një Mesazh",
+    "namePlaceholder": "Emri Juaj",
+    "emailPlaceholder": "Email-i Juaj",
+    "messagePlaceholder": "Mesazhi Juaj",
+    "submitButton": "Dërgo Mesazhin",
+    "submittingButton": "Duke dërguar...",
+    "successTitle": "Mesazhi u Dërgua!",
+    "successDescription": "Faleminderit që na kontaktuat. Do t'ju kontaktojmë së shpejti.",
+    "errorTitle": "Gabim në Dërgim",
+    "errorDescription": "Dështoi dërgimi i mesazhit tuaj. Ju lutemi provoni përsëri. Gabimi: {errorMessage}",
+    "incompleteFormTitle": "Formular i Paplotësuar",
+    "incompleteFormDescription": "Ju lutemi plotësoni të gjitha fushat para se ta dërgoni."
+  },
+  "FaqPage": {
+    "title": "Pyetje të Shpeshta",
+    "description": "Gjeni përgjigje për pyetjet e zakonshme rreth shërbimeve dhe procedurave tona.",
+    "moreQuestionsTitle": "Keni Më Shumë Pyetje?",
+    "moreQuestionsText": "Nëse pyetja juaj nuk gjen përgjigje këtu, mos hezitoni të na kontaktoni. Ekipi ynë miqësor është i gatshëm t'ju ndihmojë.",
+    "contactButton": "Na Kontaktoni"
+  },
+  "GalleryPage": {
+    "title": "Galeria e Kira Aesthetic",
+    "description": "Eksploroni fotot para dhe pas dhe shikoni rezultatet mahnitëse që kanë arritur klientët tanë.",
+    "noImages": "Galeria jonë po përditësohet aktualisht. Kthehuni së shpejti për transformime frymëzuese!"
+  },
+  "ServicesPage": {
+    "title": "Shërbimet Tona",
+    "description": "Eksploroni gamën tonë të plotë të shërbimeve estetike dhe dentare. Ekipi ynë i ekspertëve është i përkushtuar të ofrojë kujdes të personalizuar me teknologjinë më të fundit për t'ju ndihmuar të arrini rezultatet e dëshiruara.",
+    "categoryTitle": "Kategoritë e Shërbimeve",
+    "selectCategoryPrompt": "Ju lutemi zgjidhni një kategori për të parë shërbimet."
+  },
+  "SingleServicePage": {
+    "backToServices": "Kthehu te të gjitha shërbimet",
+    "ctaTitle": "Gati për Transformimin Tuaj?",
+    "ctaDescription": "Caktoni një konsultë të personalizuar me ekspertët tanë për të diskutuar qëllimet tuaja estetike.",
+    "ctaButton": "Rezervoni Konsultën tuaj për {serviceName}",
+    "serviceNotFoundTitle": "Shërbimi Nuk u Gjet | Kira Aesthetic",
+    "serviceNotFoundDescription": "Shërbimi estetik ose dentar i kërkuar nuk u gjet. Ju lutemi shfletoni listën tonë të plotë të trajtimeve.",
+    "sidebarTitle": "Në këtë faqe"
+  },
+  "ServicesData": {
+    "categories": {
+        "face": "Fytyra",
+        "breast": "Gjoksi",
+        "body": "Trupi",
+        "aesthetics": "Trajtime Estetike",
+        "dentistry": "Stomatologji"
+    },
+    "groups": {
+        "nonSurgical": "Jo-Kirurgjikale",
+        "surgical": "Kirurgjikale",
+        "hairRestoration": "Restaurimi i Flokëve",
+        "injectables": "Injektues",
+        "skinRejuvenation": "Rinovim Lëkure",
+        "bodyGeneral": "Trupi i Përgjithshëm",
+        "plasmaArc": "Heqjet me Hark Plazmatik",
+        "aesthetics": "Estetikë",
+        "prosthetics": "Protetikë",
+        "orthodontics": "Ortodonci",
+        "therapy": "Terapi",
+        "pedodontics": "Pedodonti"
+    },
+    "services": {
+        "botox": { "name": "Botoks", "brief": "Zbut rrudhat dinamike për një pamje të freskët dhe rinore." },
+        "dermalFillers": { "name": "Mbushës Dermalë", "brief": "Rikthen volumin, konturon fytyrën dhe zbut linjat e thella." },
+        "chemicalPeels": { "name": "Peeling Kimik", "brief": "Përmirëson teksturën, tonin dhe qartësinë e lëkurës duke hequr shtresat e jashtme." },
+        "darkCircles": { "name": "Rrathët e Zinj", "brief": "Trajtime për të reduktuar pamjen e rrathëve të zinj nën sy." },
+        "eyelidsPlasmaArc": { "name": "Qepallat, harku plazmatik", "brief": "Shtrëngim jo-kirurgjikal i qepallave duke përdorur energjinë plazmatike." },
+        "jawlineContouring": { "name": "Konturimi i nofullës (Mbushës)", "brief": "Përmirëson dhe definon vijën e nofullës duke përdorur mbushës të injektueshëm." },
+        "lipReshaping": { "name": "Riformimi i buzëve", "brief": "Përmirësim i personalizuar i buzëve për formë, volum dhe simetri më të mirë." },
+        "microdermabrasion": { "name": "Mikrodermabrasion", "brief": "Një eksfolim i butë për të freskuar lëkurën dhe për të përmirësuar teksturën." },
+        "microneedling": { "name": "Microneedling", "brief": "Stimulon prodhimin natyral të kolagjenit për lëkurë më të fortë dhe më të lëmuar." },
+        "multivitaminTreatment": { "name": "Trajtim Multivitaminoz", "brief": "Infuzon lëkurën me vitamina thelbësore për shëndet dhe shkëlqim." },
+        "nonSurgicalNoseReshaping": { "name": "Riformimi i hundës jo-kirurgjikal", "brief": "Korrigjon gungat dhe asimetritë me mbushës të injektueshëm." },
+        "prpHair": { "name": "PRP për flokët", "brief": "Përdor plazmën tuaj për të stimuluar rritjen dhe trashësinë e flokëve." },
+        "prpFace": { "name": "PRP për fytyrën", "brief": "'Vampire Facial' rinovon lëkurën duke stimuluar kolagjenin." },
+        "radiofrequency": { "name": "Radiofrekuenca", "brief": "Trajtim me bazë nxehtësie për të shtrënguar lëkurën dhe stimuluar kolagjenin." },
+        "deepWrinkleFilling": { "name": "Mbushja e rrudhave të thella", "brief": "Aplikim i synuar i mbushësit për linjat dhe palosjet e thella të fytyrës." },
+        "whitePeeling": { "name": "Peeling i bardhë", "brief": "Një peeling i specializuar për zbardhjen dhe barazimin e tonit të lëkurës." },
+        "wrinkleFillers": { "name": "Mbushës për rrudhat", "brief": "Trajtime të injektueshme për të zbutur dhe lëmuar rrudhat e fytyrës." },
+        "xanthelasmaPlasmaArc": { "name": "Xanthelasma, harku plazmatik", "brief": "Heqje jo-kirurgjikale e depozitave të kolesterolit në qepalla." },
+        "beardTransplant": { "name": "Transplantimi i mjekrës", "brief": "Shton qime kirurgjikisht për të krijuar një mjekër më të plotë dhe më të definuar." },
+        "browLift": { "name": "Ngritja e vetullave", "brief": "Ngrit vetullat për të reduktuar rrudhat e ballit dhe lëshimin e lëkurës." },
+        "cheekboneReshaping": { "name": "Riformimi i mollëzave", "brief": "Përmirësim ose reduktim kirurgjikal i mollëzave." },
+        "chinReshaping": { "name": "Riformimi i mjekrës", "brief": "Ndryshon kirurgjikisht mjekrën për një proporcion më të mirë të fytyrës." },
+        "earReshaping": { "name": "Riformimi i veshëve", "brief": "Korrigjon madhësinë, pozicionin ose formën e veshëve." },
+        "eyebrowTransplant": { "name": "Transplantimi i vetullave", "brief": "Rikthen ose trash vetullat duke përdorur transplantim flokësh." },
+        "eyelidSurgery": { "name": "Kirurgjia e qepallave", "brief": "Heq lëkurën ose yndyrën e tepërt nga qepallat për një pamje më të re." },
+        "faceLift": { "name": "Lifting i fytyrës", "brief": "Ngrit dhe shtrëngon kirurgjikisht indet e fytyrës për një pamje të definuar." },
+        "hairTransplant": { "name": "Transplantimi i flokëve", "brief": "Një zgjidhje kirurgjikale e përhershme për rënien dhe hollimin e flokëve." },
+        "rhinoplasty": { "name": "Rinoplastika", "brief": "Riformon kirurgjikisht hundën për të përmirësuar harmoninë e fytyrës." },
+        "breastAugmentation": { "name": "Zmadhimi i gjoksit", "brief": "Përmirëson madhësinë dhe formën e gjinjve duke përdorur implante ose transferim yndyre." },
+        "breastLift": { "name": "Ngritja e gjoksit", "brief": "Ngrit dhe forcon gjinjtë duke hequr lëkurën e tepërt." },
+        "breastReconstruction": { "name": "Rikonstruksioni i gjirit", "brief": "Rikrijon formën, pamjen dhe madhësinë e gjirit." },
+        "breastReduction": { "name": "Zvogëlimi i gjoksit", "brief": "Redukton madhësinë e gjinjve për më shumë komoditet dhe proporcion." },
+        "gynecomastia": { "name": "Gjinekomastia", "brief": "Korrigjim kirurgjikal i indit të gjirit të zhvilluar tepër te meshkujt." },
+        "armLift": { "name": "Ngritja e krahëve", "brief": "Heq lëkurën e varur nga pjesa e sipërme e krahëve për një pamje të tonifikuar." },
+        "brazilianButtLift": { "name": "Ngritja braziliane e vitheve", "brief": "Përmirëson madhësinë dhe formën e vitheve duke përdorur transferim yndyre." },
+        "labiaplasty": { "name": "Labiaplastika", "brief": "Procedurë kirurgjikale për të riformuar ose zvogëluar labia minora." },
+        "liposculpture": { "name": "Liposkulptura", "brief": "Liposuksion i avancuar për konturim dhe definim të saktë të trupit." },
+        "thighLift": { "name": "Ngritja e kofshëve", "brief": "Riformon kofshët duke hequr lëkurën dhe yndyrën e tepërt." },
+        "tummyTuck": { "name": "Abdominoplastika", "brief": "Sheshon barkun duke hequr yndyrën dhe lëkurën e tepërt." },
+        "liposuction": { "name": "Liposuksioni", "brief": "Heq kirurgjikisht depozitat e yndyrës kokëfortë për një kontur më të hollë." },
+        "carboxytherapy": { "name": "Karboksiterapia", "brief": "Përmirëson celulitin, strijat dhe rrathët e zinj me CO2." },
+        "celluliteTreatment": { "name": "Trajtimi i celulitit", "brief": "Trajtime të ndryshme për të reduktuar pamjen e celulitit." },
+        "laserHairRemoval": { "name": "Heqja e qimeve me lazer", "brief": "Një zgjidhje afatgjatë për të reduktuar rritjen e qimeve të padëshiruara." },
+        "lipolysis": { "name": "Lipoliza", "brief": "Trajtim i injektueshëm për të shkrirë xhepat e vegjël dhe kokëfortë të yndyrës." },
+        "plasmaArcBody": { "name": "Harku plazmatik (Trupi)", "brief": "Shtrëngim dhe rinovim jo-kirurgjikal i lëkurës për trupin." },
+        "sclerotherapy": { "name": "Skleroterapi", "brief": "Trajton në mënyrë efektive venat merimangë dhe variçet në këmbë." },
+        "compositeVeneers": { "name": "Faseta kompozite", "brief": "Faseta të aplikuara direkt për të përmirësuar buzëqeshjen tuaj në një vizitë të vetme." },
+        "eMaxVeneers": { "name": "Faseta E-Max", "brief": "Faseta qeramike me forcë të lartë dhe të qëndrueshme për një buzëqeshje mahnitëse." },
+        "teethWhitening": { "name": "Zbardhimi i dhëmbëve", "brief": "Ndriçon buzëqeshjen tuaj me trajtime zbardhuese të nivelit profesional." },
+        "crowns": { "name": "Kurora", "brief": "Një mbulesë e vendosur mbi një dhëmb për të restauruar formën, madhësinë dhe forcën e tij." },
+        "dentalBridges": { "name": "Ura dentare", "brief": "Mbyll hapësirën e krijuar nga një ose më shumë dhëmbë të munguar." },
+        "dentures": { "name": "Proteza dentare", "brief": "Zëvendësim i lëvizshëm për dhëmbët e munguar dhe indet përreth." },
+        "fixedBraces": { "name": "Aparate fikse", "brief": "Aparate tradicionale për drejtimin dhe rreshtimin efektiv të dhëmbëve." },
+        "invisalign": { "name": "Invisalign", "brief": "Alineatorë transparentë dhe të lëvizshëm për të drejtuar dhëmbët tuaj në mënyrë diskrete." },
+        "removableAppliances": { "name": "Aparate të lëvizshme", "brief": "Pajisje ortodontike të personalizuara që mund të hiqen për pastrim." },
+        "infectedTeethTreatment": { "name": "Trajtimi i dhëmbëve të infektuar", "brief": "Terapi kanalesh për të shpëtuar një dhëmb të prishur rëndë ose të infektuar." },
+        "tartarCleaning": { "name": "Pastrimi i gurëve", "brief": "Pastrim profesional për të hequr pllakën e ngurtësuar dhe gurin." },
+        "toothFillings": { "name": "Mbushje dhëmbësh", "brief": "Rikthen një dhëmb të dëmtuar nga kariesi në funksionin e tij normal." },
+        "apicalResection": { "name": "Rezeksioni apikal", "brief": "Procedurë kirurgjikale për të hequr majën e rrënjës së një dhëmbi." },
+        "dentalImplants": { "name": "Implante dentare", "brief": "Një zgjidhje e përhershme dhe me pamje natyrale për dhëmbët e munguar." },
+        "toothExtraction": { "name": "Heqja e dhëmbit", "brief": "Heqja e një dhëmbi nga alveola e tij në kockë." },
+        "milkTeethTreatment": { "name": "Trajtimi i dhëmbëve të qumështit", "brief": "Kujdes i specializuar dentar për dhëmbët primarë të fëmijëve." },
+        "toothFluoridation": { "name": "Fluorizimi i dhëmbëve", "brief": "Aplikimi i fluorit për t'i bërë dhëmbët më rezistentë ndaj kariesit." },
+        "toothSealants": { "name": "Vulosës dentarë", "brief": "Një shtresë mbrojtëse për të parandaluar kariesin në dhëmbët e pasmë." }
+    }
+  },
+  "GalleryData": {
+    "galleryAlt1": "Rezultatet e rinovimit të fytyrës",
+    "galleryAlt2": "Transformimi i konturimit të trupit",
+    "galleryAlt3": "Para dhe pas zmadhimit të gjoksit",
+    "galleryAlt4": "Rezultati i rinoplastikës",
+    "galleryAlt5": "Përmirësimi me mbushës buzësh",
+    "galleryAlt6": "Rezultatet e abdominoplastikës"
+  },
+  "TestimonialsData": {
+    "testimonial1": {
+      "quote": "Kira Aesthetic transformoi lëkurën time! Stafi është jashtëzakonisht profesional dhe i kujdesshëm. Unë e rekomandoj fuqimisht ekspertizën e tyre për këdo që kërkon trajtime estetike të nivelit të lartë në Tiranë.",
+      "name": "Ana K."
+    },
+    "testimonial2": {
+      "quote": "Isha nervoz për procedurën time të parë estetike, por ekipi i Kira Aesthetic më bëri të ndihem plotësisht rehat. Rezultatet janë fantastike dhe kaq natyrale! Profesionistë vërtet të aftë.",
+      "name": "Mark T."
+    },
+    "testimonial3": {
+      "quote": "Klinika më e mirë estetike në Tiranë, pa dyshim! Pajisje moderne, jashtëzakonisht të pastra dhe rezultatet flasin vetë. Faleminderit, Kira Aesthetic, për kujdesin tuaj të jashtëzakonshëm!",
+      "name": "Linda S."
+    }
+  },
+  "FaqData": {
+    "faq1": {
+      "question": "Çfarë duhet të pres gjatë konsultës sime të parë?",
+      "answer": "Konsulta juaj e parë është një diskutim i plotë me një nga specialistët tanë. Ne do të diskutojmë qëllimet tuaja, do të vlerësojmë nevojat tuaja dhe do të rekomandojmë një plan trajtimi të personalizuar. Është një mundësi e shkëlqyer për të bërë çdo pyetje që keni."
+    },
+    "faq2": {
+      "question": "A janë trajtimet të dhimbshme?",
+      "answer": "Ne i japim përparësi komoditetit tuaj. Shumica e trajtimeve jo-invazive përfshijnë siklet minimal. Për procedura më të ndjeshme, ne përdorim anestetikë topikë ose metoda të tjera për të siguruar një përvojë të rehatshme."
+    },
+    "faq3": {
+      "question": "Sa zgjat koha e rikuperimit?",
+      "answer": "Koha e rikuperimit ndryshon sipas procedurës. Trajtimet jo-invazive shpesh nuk kanë kohë rikuperimi, duke ju lejuar të ktheheni menjëherë në aktivitetet e përditshme. Procedurat kirurgjikale kërkojnë një periudhë më të gjatë rikuperimi, dhe ne do t'ju japim udhëzime të hollësishme pas kujdesit."
+    },
+    "faq4": {
+      "question": "Si ta di se cili shërbim është i duhuri për mua?",
+      "answer": "Ekipi ynë i ekspertëve do t'ju udhëzojë. Gjatë konsultës suaj, ne do t'ju ndihmojmë të zgjidhni trajtimet më efektive për të arritur rezultatet tuaja të dëshiruara bazuar në anatominë dhe qëllimet tuaja unike."
+    },
+    "faq5": {
+      "question": "Cilat janë opsionet tuaja të pagesës?",
+      "answer": "Ne pranojmë kartat kryesore të kreditit, dhe mund të jenë të disponueshme opsione financimi për procedura të caktuara. Ju lutemi kontaktoni zyrën tonë për informacion më të detajuar mbi pagesat dhe financimin."
+    },
+    "faq6": {
+        "question": "Çfarë lloj produktesh ofroni?",
+        "answer": "Ne ofrojmë një gamë të plotë shërbimesh estetike dhe dentare, si kirurgjikale ashtu edhe jo-kirurgjikale. Kjo përfshin rinovimin e fytyrës si lifting dhe Botox, konturimin e trupit si liposuksioni, dhe një suitë të plotë të kujdesit dentar nga fasetat kozmetike te implantet."
+    }
+  },
+  "SingleBlogPostPage": {
+    "backToBlog": "Kthehu te Blogu"
+  },
+  "Common": {
+    "readMore": "Lexo më shumë",
+    "by": "Nga"
+  }
+}

@@ -1,0 +1,508 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background-video",
+      "description": "Hero background video.",
+      "imageUrl": "/videos/hero-background.mp4",
+      "imageHint": "clinic interior"
+    },
+    {
+      "id": "hero-poster",
+      "description": "Poster for the hero video.",
+      "imageUrl": "/images/hero-poster.jpg",
+      "imageHint": "clinic interior"
+    },
+    {
+      "id": "service-face",
+      "description": "Face treatments category.",
+      "imageUrl": "/images/face.jpg",
+      "imageHint": "woman face"
+    },
+    {
+      "id": "service-breast",
+      "description": "Breast surgery category.",
+      "imageUrl": "/images/breast.jpg",
+      "imageHint": "woman torso"
+    },
+    {
+      "id": "service-body",
+      "description": "Body contouring category.",
+      "imageUrl": "/images/body.jpg",
+      "imageHint": "woman legs"
+    },
+    {
+      "id": "service-aesthetics-treatments",
+      "description": "Aesthetic treatments category.",
+      "imageUrl": "/images/aes.jpg",
+      "imageHint": "skincare products"
+    },
+    {
+      "id": "service-dentistry",
+      "description": "Dentistry category.",
+      "imageUrl": "/images/dentist.jpg",
+      "imageHint": "dental tools"
+    },
+    {
+      "id": "service-item-face-1",
+      "imageUrl": "/images/beard.jpg",
+      "description": "Beard Transplant",
+      "imageHint": "beard"
+    },
+    {
+      "id": "service-item-face-2",
+      "imageUrl": "/images/brow-lift.jpg",
+      "description": "Brow Lift",
+      "imageHint": "brow"
+    },
+    {
+      "id": "service-item-face-3",
+      "imageUrl": "/images/cheeckbone.jpg",
+      "description": "Cheekbone Reshaping",
+      "imageHint": "face"
+    },
+    {
+      "id": "service-item-face-4",
+      "imageUrl": "/images/chin.jpg",
+      "description": "Chin Reshaping",
+      "imageHint": "face"
+    },
+    {
+      "id": "service-item-face-5",
+      "imageUrl": "/images/ear-reshaping.jpg",
+      "description": "Ear Reshaping",
+      "imageHint": "ear"
+    },
+    {
+      "id": "service-item-face-6",
+      "imageUrl": "/images/eyebrow.jpg",
+      "description": "Eyebrow Transplant",
+      "imageHint": "eyebrows"
+    },
+    {
+      "id": "service-item-face-7",
+      "imageUrl": "/images/eyelid.jpg",
+      "description": "Eyelid Surgery",
+      "imageHint": "eyes"
+    },
+    {
+      "id": "service-item-face-8",
+      "imageUrl": "/images/face-lift.jpg",
+      "description": "Face Lift",
+      "imageHint": "facelift"
+    },
+    {
+      "id": "service-item-face-9",
+      "imageUrl": "/images/hair-transplant.jpg",
+      "description": "Haartransplantation",
+      "imageHint": "haircare"
+    },
+    {
+      "id": "service-item-face-10",
+      "imageUrl": "/images/rhinoplasty-long.jpg",
+      "description": "Rhinoplasty",
+      "imageHint": "nose"
+    },
+    {
+      "id": "service-item-breast-1",
+      "imageUrl": "/images/baug.jpg",
+      "description": "Breast Augmentation",
+      "imageHint": "breast"
+    },
+    {
+      "id": "service-item-breast-2",
+      "imageUrl": "/images/blift.jpg",
+      "description": "Breast Lift",
+      "imageHint": "breast"
+    },
+    {
+      "id": "service-item-breast-3",
+      "imageUrl": "/images/breast-reconstruction.jpg",
+      "description": "Breast Reconstruction",
+      "imageHint": "breast"
+    },
+    {
+      "id": "service-item-breast-4",
+      "imageUrl": "/images/breast-reduction.jpg",
+      "description": "Breast Reduction",
+      "imageHint": "breast"
+    },
+    {
+      "id": "service-item-breast-5",
+      "imageUrl": "/images/Gynecomastia.jpg",
+      "description": "Gynecomastia",
+      "imageHint": "male chest"
+    },
+    {
+      "id": "service-item-body-1",
+      "imageUrl": "/images/arm.jpg",
+      "description": "Arm Lift",
+      "imageHint": "arms"
+    },
+    {
+      "id": "service-item-body-2",
+      "imageUrl": "/images/brazilian.jpg",
+      "description": "Brazilian Butt Lift",
+      "imageHint": "hips"
+    },
+    {
+      "id": "service-item-body-3",
+      "imageUrl": "/images/labia.jpg",
+      "description": "Labiaplasty",
+      "imageHint": "body"
+    },
+    {
+      "id": "service-item-body-4",
+      "imageUrl": "/images/liposculpture.jpg",
+      "description": "Liposculpture",
+      "imageHint": "abs"
+    },
+    {
+      "id": "service-item-body-5",
+      "imageUrl": "/images/thigh.jpg",
+      "description": "Thigh Lift",
+      "imageHint": "legs"
+    },
+    {
+      "id": "service-item-body-6",
+      "imageUrl": "/images/tummy.jpg",
+      "description": "Tummy Tuck",
+      "imageHint": "stomach"
+    },
+    {
+      "id": "service-item-body-7",
+      "imageUrl": "/images/liposuction.jpg",
+      "description": "Liposuccion",
+      "imageHint": "body"
+    },
+    {
+      "id": "service-item-aesthetics-1",
+      "imageUrl": "/images/Sclerotherapy.jpg",
+      "description": "Sclerotherapy",
+      "imageHint": "legs"
+    },
+    {
+      "id": "service-item-aesthetics-3",
+      "imageUrl": "/images/Lipolysis.jpg",
+      "description": "Lipolysis",
+      "imageHint": "body"
+    },
+    {
+      "id": "service-item-aesthetics-4",
+      "imageUrl": "/images/cell.jpg",
+      "description": "StrikeCell",
+      "imageHint": "body"
+    },
+    {
+      "id": "service-item-aesthetics-5",
+      "imageUrl": "/images/microdermabrasion.jpg",
+      "description": "Microdermabrasion",
+      "imageHint": "skincare"
+    },
+    {
+      "id": "service-item-aesthetics-6",
+      "imageUrl": "/images/dermapen.jpg",
+      "description": "Dermapen 4",
+      "imageHint": "skincare"
+    },
+    {
+      "id": "service-item-aesthetics-7",
+      "imageUrl": "/images/multivitamin.jpg",
+      "description": "Multivitamin Treatment",
+      "imageHint": "skincare"
+    },
+    {
+      "id": "service-item-aesthetics-8",
+      "imageUrl": "/images/prp.jpg",
+      "description": "PRP Face",
+      "imageHint": "skincare"
+    },
+    {
+      "id": "service-item-aesthetics-9",
+      "imageUrl": "/images/prp-hair.jpg",
+      "description": "PRP Hair",
+      "imageHint": "haircare"
+    },
+    {
+      "id": "service-item-aesthetics-10",
+      "imageUrl": "/images/white.jpg",
+      "description": "White Peeling",
+      "imageHint": "skincare"
+    },
+    {
+      "id": "service-item-aesthetics-11",
+      "imageUrl": "/images/xanthelasma.jpg",
+      "description": "Xanthelasma",
+      "imageHint": "eyes"
+    },
+    {
+      "id": "service-item-aesthetics-12",
+      "imageUrl": "/images/callus.jpg",
+      "description": "Callus",
+      "imageHint": "skin"
+    },
+    {
+      "id": "service-item-aesthetics-13",
+      "imageUrl": "/images/wart.jpg",
+      "description": "Wart",
+      "imageHint": "skin"
+    },
+    {
+      "id": "service-item-aesthetics-14",
+      "imageUrl": "/images/mole-removal.jpg",
+      "description": "Mole",
+      "imageHint": "skin"
+    },
+    {
+      "id": "service-item-aesthetics-15",
+      "imageUrl": "/images/filler-1.jpg",
+      "description": "Cheek Filler",
+      "imageHint": "filler"
+    },
+    {
+      "id": "service-item-aesthetics-16",
+      "imageUrl": "/images/filler-2.jpg",
+      "description": "Jawline Filler",
+      "imageHint": "filler"
+    },
+    {
+      "id": "service-item-aesthetics-17",
+      "imageUrl": "/images/filler-3.jpg",
+      "description": "Nasolabial Filler",
+      "imageHint": "filler"
+    },
+    {
+      "id": "service-item-aesthetics-18",
+      "imageUrl": "/images/filler-4.jpg",
+      "description": "Forehead Filler",
+      "imageHint": "filler"
+    },
+    {
+      "id": "service-item-aesthetics-19",
+      "imageUrl": "/images/filler-5.jpg",
+      "description": "Lip Filler",
+      "imageHint": "filler"
+    },
+    {
+      "id": "service-item-aesthetics-20",
+      "imageUrl": "/images/microneedling.jpg",
+      "description": "Microneedling",
+      "imageHint": "skincare"
+    },
+    {
+      "id": "service-item-dentistry-composite",
+      "imageUrl": "/images/composite.jpg",
+      "description": "Composite Veneers",
+      "imageHint": "teeth"
+    },
+    {
+      "id": "service-item-dentistry-1",
+      "imageUrl": "/images/emax-veneers.jpg",
+      "description": "E-Max Veneers",
+      "imageHint": "teeth"
+    },
+    {
+      "id": "service-item-dentistry-2",
+      "imageUrl": "/images/teeth-whitening.jpg",
+      "description": "Teeth Whitening",
+      "imageHint": "teeth"
+    },
+    {
+      "id": "service-item-dentistry-3",
+      "imageUrl": "/images/crowns.jpg",
+      "description": "Crowns",
+      "imageHint": "teeth"
+    },
+    {
+      "id": "service-item-dentistry-4",
+      "imageUrl": "/images/dental-bridges.jpg",
+      "description": "Dental Bridges",
+      "imageHint": "teeth"
+    },
+    {
+      "id": "service-item-dentistry-5",
+      "imageUrl": "/images/dentures.jpg",
+      "description": "Dentures",
+      "imageHint": "teeth"
+    },
+    {
+      "id": "service-item-dentistry-6",
+      "imageUrl": "/images/fixed-braces.jpg",
+      "description": "Fixed Braces",
+      "imageHint": "braces"
+    },
+    {
+      "id": "service-item-dentistry-7",
+      "imageUrl": "/images/invisalign.jpg",
+      "description": "Invisalign",
+      "imageHint": "invisalign"
+    },
+    {
+      "id": "service-item-dentistry-8",
+      "imageUrl": "/images/removable-appliances.jpg",
+      "description": "Removable Appliances",
+      "imageHint": "teeth"
+    },
+    {
+      "id": "service-item-dentistry-9",
+      "imageUrl": "/images/specialist-xray.jpg",
+      "description": "Infected Teeth Treatment",
+      "imageHint": "toothache"
+    },
+    {
+      "id": "service-item-dentistry-10",
+      "imageUrl": "/images/tartar-cleaning.jpg",
+      "description": "Tartar Cleaning",
+      "imageHint": "teeth"
+    },
+    {
+      "id": "service-item-dentistry-11",
+      "imageUrl": "/images/tooth-fillings.jpg",
+      "description": "Tooth Fillings",
+      "imageHint": "teeth"
+    },
+    {
+      "id": "service-item-dentistry-12",
+      "imageUrl": "/images/apical-resection.jpg",
+      "description": "Apical Resection",
+      "imageHint": "teeth"
+    },
+    {
+      "id": "service-item-dentistry-13",
+      "imageUrl": "/images/dental-implant-model.jpg",
+      "description": "Dental Implants",
+      "imageHint": "dental implant"
+    },
+    {
+      "id": "service-item-dentistry-14",
+      "imageUrl": "/images/tooth-extraction.jpg",
+      "description": "Tooth Extraction",
+      "imageHint": "teeth"
+    },
+    {
+      "id": "service-item-dentistry-15",
+      "imageUrl": "/images/milk-teeth.jpg",
+      "description": "Milk Teeth Treatment",
+      "imageHint": "kids teeth"
+    },
+    {
+      "id": "service-item-dentistry-16",
+      "imageUrl": "/images/fluoridation.jpg",
+      "description": "Tooth Fluoridation",
+      "imageHint": "teeth"
+    },
+    {
+      "id": "service-item-dentistry-17",
+      "imageUrl": "/images/sealants.jpg",
+      "description": "Tooth Sealants",
+      "imageHint": "teeth"
+    },
+    {
+      "id": "why-choose-us-expertise",
+      "description": "Visionary Mastery",
+      "imageUrl": "/images/doc.jpg",
+      "imageHint": "doctor portrait"
+    },
+    {
+      "id": "why-choose-us-technology",
+      "description": "Clinical Innovation",
+      "imageUrl": "/images/why-choose-us-technology.jpg",
+      "imageHint": "medical technology"
+    },
+    {
+      "id": "why-choose-us-care",
+      "description": "An Intimate Journey",
+      "imageUrl": "/images/intimate.jpg",
+      "imageHint": "patient care"
+    },
+    {
+      "id": "why-choose-us-safety",
+      "description": "The Silent Oath",
+      "imageUrl": "/images/why-choose-us-safety.jpg",
+      "imageHint": "clear skin"
+    },
+    {
+      "id": "why-choose-us-results",
+      "description": "Natural Belonging",
+      "imageUrl": "/images/woman-with-doctor-cosmetology-studio-brow-lift.jpg",
+      "imageHint": "smiling face"
+    },
+    {
+      "id": "about-us-main",
+      "description": "Specialists at Kira Aesthetic.",
+      "imageUrl": "/images/Aesthetic medicine clinic.jpeg",
+      "imageHint": "medical team"
+    },
+    {
+      "id": "about-us-clinic",
+      "description": "Clinic wellness center.",
+      "imageUrl": "/images/rhinoplasty-long.jpg",
+      "imageHint": "wellness center"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Gallery image 1",
+      "imageUrl": "/images/gallery-1.jpg",
+      "imageHint": "aesthetic"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Gallery image 2",
+      "imageUrl": "/images/top-view-woman-getting-beauty-procedure-wellness-center.jpg",
+      "imageHint": "skincare"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Gallery image 3",
+      "imageUrl": "/images/gallery-3.jpg",
+      "imageHint": "dentistry"
+    },
+    {
+      "id": "gallery-4",
+      "description": "Gallery image 4",
+      "imageUrl": "/images/gallery-4.jpg",
+      "imageHint": "clinic"
+    },
+    {
+      "id": "gallery-5",
+      "description": "Gallery image 5",
+      "imageUrl": "/images/rhinoplasty-long.jpg",
+      "imageHint": "surgery"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "Jessica M.",
+      "imageUrl": "/images/testimonial-1.jpg",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Elena S.",
+      "imageUrl": "/images/testimonial-2.jpg",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Markus T.",
+      "imageUrl": "/images/testimonial-3.jpg",
+      "imageHint": "man smiling"
+    },
+    {
+      "id": "testimonial-4",
+      "description": "Sophie L.",
+      "imageUrl": "/images/testimonial-4.jpg",
+      "imageHint": "professional woman"
+    },
+    {
+      "id": "testimonial-5",
+      "description": "Alessandro P.",
+      "imageUrl": "/images/testimonial-5.jpg",
+      "imageHint": "professional man"
+    },
+    {
+      "id": "testimonial-6",
+      "description": "Maria G.",
+      "imageUrl": "/images/testimonial-6.jpg",
+      "imageHint": "face"
+    }
+  ]
+}

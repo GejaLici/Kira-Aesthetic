@@ -1,0 +1,277 @@
+{
+  "header": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "about": "Über Uns",
+    "gallery": "Galerie",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "bookConsultation": "Beratung buchen"
+  },
+  "footer": {
+    "description": "Kira Aesthetic ist eine führende Klinik, die auf eine breite Palette von ästhetischen, zahnärztlichen und medizinischen Behandlungen spezialisiert ist.",
+    "quickLinks": "Schnellinks",
+    "contactUs": "Kontaktieren Sie uns",
+    "address": "Straßenname 123, Stadt, Land",
+    "phone": "+123 456 7890",
+    "email": "contact@kiraaesthetic.com",
+    "legal": "© 2024 Kira Aesthetic. Alle Rechte vorbehalten.",
+    "privacyPolicy": "Datenschutz",
+    "termsOfService": "Nutzungsbedingungen"
+  },
+  "hero": {
+    "title": "Die Kunst zeitloser Transformation",
+    "subtitle": "Entdecken Sie erstklassige ästhetische, zahnärztliche und medizinische Behandlungen bei Kira Aesthetic. Ihre Reise zum Selbstbewusstsein beginnt hier.",
+    "ourServices": "Unsere Dienstleistungen",
+    "bookNow": "Jetzt buchen"
+  },
+  "serviceHighlights": {
+    "title": "Die Kuratierte Kollektion",
+    "subtitle": "Entdecken Sie ein Spektrum transformativer Behandlungen, bei denen medizinische Meisterschaft auf einen kompromisslosen Blick für natürliche Details trifft.",
+    "explore": "Erkunden"
+  },
+  "serviceCategories": {
+    "face": "Gesicht",
+    "breast": "Brust",
+    "body": "Körper",
+    "aesthetics": "Ästhetik",
+    "dentistry": "Zahnmedizin"
+  },
+  "services": {
+    "surgical": "Chirurgisch",
+    "generalBody": "Allgemeiner Körper",
+    "skinRejuvenation": "Hautverjüngung",
+    "plasmaArcRemovals": "Plasma-Lichtbogen-Entfernungen",
+    "fillers": "Füllstoffe",
+    "prosthetics": "Prothetik",
+    "orthodontics": "Kieferorthopädie",
+    "therapy": "Therapie",
+    "surgicalDentistry": "Chirurgische Zahnmedizin",
+    "pedodontics": "Kinderzahnheilkunde",
+    "beardTransplant": "Barttransplantation",
+    "browLift": "Augenbrauenlifting",
+    "cheekboneReshaping": "Wangenknochenumformung",
+    "chinReshaping": "Kinnumformung",
+    "earReshaping": "Ohrenumformung",
+    "eyebrowTransplant": "Augenbrauentransplantation",
+    "eyelidSurgery": "Augenlidchirurgie",
+    "faceLift": "Gesichtsstraffung",
+    "hairTransplant": "Haartransplantation",
+    "rhinoplasty": "Rhinoplastik",
+    "breastAugmentation": "Brustvergrößerung",
+    "breastLift": "Bruststraffung",
+    "breastReconstruction": "Brustrekonstruktion",
+    "breastReduction": "Brustverkleinerung",
+    "gynecomastia": "Gynäkomastie",
+    "armLift": "Armstraffung",
+    "brazilianButtLift": "Brasilianisches Po-Lifting",
+    "labiaplasty": "Labiaplastik",
+    "liposculpture": "Liposkulptur",
+    "thighLift": "Oberschenkelstraffung",
+    "tummyTuck": "Bauchdeckenstraffung",
+    "liposuction": "Fettabsaugung",
+    "sclerotherapy": "Sklerotherapie",
+    "lipolysis": "Lipolyse",
+    "strikeCell": "StrikeCell Cellulite-Behandlung",
+    "microdermabrasion": "Mikrodermabrasion",
+    "microneedling": "Microneedling",
+    "dermapen4": "Dermapen 4",
+    "multivitaminTreatment": "Multivitamin-Behandlung",
+    "prpFace": "PRP für das Gesicht",
+    "prpHair": "PRP für die Haare",
+    "whitePeeling": "Weißes Peeling",
+    "xanthelasma": "Xanthelasma (Klein, Mittel, Groß)",
+    "callus": "Kallus (Klein, Mittel, Groß)",
+    "wart": "Warze (Klein, Groß)",
+    "mole": "Muttermal (Klein, Mittel, Groß)",
+    "cheekFiller": "Wangenfüller 2ml",
+    "jawlineFiller": "Kinnlinienfüller 3ml",
+    "nasolabialFiller": "Nasolabialfaltenfüller",
+    "foreheadFiller": "Stirnfaltenfüller",
+    "lipFiller": "Lippenfüller 2ml",
+    "compositeVeneers": "Komposit-Veneers",
+    "emaxVeneers": "E-Max Veneers",
+    "teethWhitening": "Zahnaufhellung",
+    "crowns": "Kronen",
+    "dentalBridges": "Zahnbrücken",
+    "dentures": "Zahnprothesen",
+    "fixedBraces": "Feste Zahnspangen",
+    "invisalign": "Invisalign",
+    "removableAppliances": "Herausnehmbare Apparaturen",
+    "infectedTeethTreatment": "Behandlung infizierter Zähne",
+    "tartarCleaning": "Zahnsteinreinigung",
+    "toothFillings": "Zahnfüllungen",
+    "apicalResection": "Apikale Resektion",
+    "dentalImplants": "Zahnimplantate",
+    "toothExtraction": "Zahnextraktion",
+    "milkTeethTreatment": "Behandlung von Milchzähnen",
+    "toothFluoridation": "Zahnfluoridierung",
+    "toothSealants": "Zahnversiegelungen"
+  },
+  "whyChooseUs": {
+    "title": "Der Kira-Standard",
+    "subtitle": "Der Gipfel der strahlenden Verfeinerung",
+    "expertise": {
+      "title": "Visionäre Meisterschaft",
+      "description": "Ein Kollektiv von Fachärzten, die sich dem Gipfel der medizinischen Exzellenz und ästhetischen Harmonie verschrieben haben."
+    },
+    "technology": {
+      "title": "Klinische Innovation",
+      "description": "Präzision ohne Kompromisse. Wir nutzen Systeme der nächsten Generation für beispiellose Sicherheit und atemberaubende Ergebnisse."
+    },
+    "care": {
+      "title": "Eine Intime Reise",
+      "description": "Wir glauben an einen maßgeschneiderten Ansatz, bei dem Ihre einzigartige Geschichte den Plan bestimmt – für eine Betreuung, die so tiefgreifend ist wie das Ergebnis."
+    },
+    "safety": {
+      "title": "Der Stille Eid",
+      "description": "Einhaltung der weltweit strengsten Sicherheitsprotokolle. Ihr Wohlbefinden ist das unsichtbare Fundament all unseres Handelns."
+    },
+    "results": {
+      "title": "Natürliche Zugehörigkeit",
+      "description": "Wir spezialisieren uns auf Ergebnisse, die so mühelos und verfeinert sind, dass es sich anfühlt, als hätten sie schon immer zu Ihnen gehört."
+    }
+  },
+  "testimonials": {
+    "title": "Stimmen der Transformation",
+    "subtitle": "Das tiefste Zeugnis unseres Handwerks sind die Lebenswege derer, die wir begleiten dürfen."
+  },
+  "contactForm": {
+    "title": "Der Kira-Standard",
+    "subtitle": "Der Gipfel der strahlenden Verfeinerung",
+    "name": "Vollständiger Name",
+    "email": "E-Mail-Adresse",
+    "phone": "Telefonnummer",
+    "message": "Anfragedetails",
+    "sendMessage": "Anfrage senden",
+    "success": "Ihre Anfrage ist eingegangen. Wir werden uns diskret mit Ihnen in Verbindung setzen.",
+    "error": "Anfrage konnte nicht gesendet werden. Bitte kontaktieren Sie unseren Concierge direkt."
+  },
+  "servicesPage": {
+    "title": "Das Gesamte Spektrum der Pflege",
+    "subtitle": "Ein umfassendes Portfolio, das darauf ausgerichtet ist, Ihre natürliche Anmut und Ihr klinisches Wohlbefinden zu fördern."
+  },
+  "servicePage": {
+    "procedureTime": "Dauer",
+    "anesthesia": "Anästhesie",
+    "recoveryTime": "Wiederherstellung",
+    "results": "Ergebnis",
+    "quickFacts": {
+      "varies": "Maßgeschneidert",
+      "oneToThreeHours": "1-3 Stunden",
+      "localOrGeneral": "Lokal oder Vollnarkose",
+      "oneToTwoWeeks": "1-2 Wochen",
+      "longLasting": "Dauerhaft",
+      "oneToTwoHours": "1-2 Stunden"
+    },
+    "aboutTheProcedure": "Der Eingriff",
+    "benefitsResults": "Klinische Vorteile",
+    "benefitsDescription": "Jede Behandlung ist ein bewusster Schritt in Richtung Ihrer ästhetischen Ziele, wobei sowohl die Gesundheit als auch die visuelle Harmonie betont werden.",
+    "consultationRecovery": "Wiederherstellung & Pflege",
+    "consultationRecoveryDescription": "Ihre Reise wird durch einen umfassenden Fahrplan unterstützt, der Klarheit und Komfort vom ersten Gespräch bis zum finalen Ergebnis gewährleistet.",
+    "onThisPage": "Auf dieser Seite",
+    "readyToLearnMore": "Möchten Sie mehr erfahren?",
+    "scheduleConsultation": "Vereinbaren Sie noch heute einen persönlichen Beratungstermin mit unseren Experten."
+  },
+  "aboutPage": {
+    "title": "Über Kira Aesthetic",
+    "missionTitle": "Die Vision",
+    "missionText": "Unsere Mission ist es, ein neues Paradigma in der ästhetischen Versorgung zu etablieren, bei dem chirurgische Exzellenz und künstlerische Intuition in einem Refugium absoluter Professionalität koexistieren.",
+    "teamTitle": "Die Spezialisten",
+    "teamText": "Unser Herzschlag liegt in unserer kollektiven Expertise – ein kuratiertes Team, angetrieben von einer gemeinsamen Leidenschaft für Exzellenz und dem stillen Erfolg unserer Patienten.",
+    "clinicTitle": "Das Refugium",
+    "clinicText": "Treten Sie ein in einen Raum der Ruhe. Unsere Klinik ist mehr als eine Einrichtung; sie ist ein Rückzugsort, an dem Wissenschaft auf Gelassenheit trifft."
+  },
+  "galleryPage": {
+    "title": "Enthüllte Kunstfertigkeit",
+    "subtitle": "Ein visuelles Portfolio, das die subtile Kraft wissenschaftlicher Exzellenz und ästhetischer Verfeinerung widerspiegelt."
+  },
+  "blogPage": {
+    "title": "Das Ästhetik-Journal",
+    "subtitle": "Einblicke, Innovationen und Expertenperspektiven aus der vordersten Front der ästhetischen Medizin.",
+    "readMore": "Artikel lesen"
+  },
+  "faqPage": {
+    "title": "Die Wissensdatenbank",
+    "subtitle": "Verfeinern Sie Ihr Verständnis unserer Philosophie und unserer chirurgischen Protokolle.",
+    "contactTitle": "Haben Sie noch Fragen?",
+    "contactSubtitle": "Wenn Sie die gesuchte Antwort nicht finden, zögern Sie bitte nicht, uns zu kontaktieren.",
+    "faqs": [
+      {
+        "id": "faq1",
+        "question": "Was ist der erste Schritt zu einer Behandlung?",
+        "answer": "Der erste Schritt ist always eine persönliche Beratung mit einem unserer Spezialisten. Wir besprechen Ihre Ziele, bewerten Ihren Fall und schlagen einen individuellen Behandlungsplan für Sie vor."
+      },
+      {
+        "id": "faq2",
+        "question": "Wie lange dauert die Genesungszeit bei chirurgischen Eingriffen?",
+        "answer": "Die Genesungszeit variiert stark je nach Eingriff. Während Ihrer Beratung wird Ihnen unser Chirurg definitiv Informationen über den erwarteten Genesungszeitraum, die postoperative Pflege und eventuelle Aktivitätseinschränkungen geben."
+      },
+      {
+        "id": "faq3",
+        "answer": "Der Patientenkomfort hat für uns Priorität. Bei chirurgischen Eingriffen wird eine Anästhesie verwendet. Bei nicht-chirurgischen Behandlungen verwenden wir topische Betäubungscremes und andere Techniken, um jegliches Unbehagen zu minimieren. Most Patienten berichten von minimalen bis keinen Schmerzen.",
+        "question": "Sind die Behandlungen schmerzhaft?"
+      },
+      {
+        "id": "faq4",
+        "question": "Wie kann ich einen Termin buchen?",
+        "answer": "Sie können eine Beratung buchen, indem Sie uns direkt anrufen, uns eine E-Mail senden oder das Kontaktformular auf unserer Website verwenden. Unser Team wird sich umgehend mit Ihnen in Verbindung setzen, um Ihren Termin zu vereinbaren."
+      },
+      {
+        "id": "faq5",
+        "question": "Bieten Sie Finanzierungsmöglichkeiten an?",
+        "answer": "Ja, wir bieten eine Vielzahl von Finanzierungsmöglichkeiten an, um unsere Behandlungen zugänglicher zu machen. Bitte kontaktieren Sie unser Verwaltungsteam, um mehr über die verfügbaren Pläne zu erfahren."
+      },
+      {
+        "id": "faq6",
+        "question": "Wird meine Nase nach der Operation natürlich aussehen?",
+        "answer": "Unser oberstes Ziel ist ein natürliches Aussehen bei jeder Operation, etwas, mit dem Sie sich selbstbewusst fühlen und bereit sind, die Welt zu erobern!"
+      },
+      {
+        "id": "faq7",
+        "question": "Wie viel Veränderung kann ich im Aussehen meiner Nase erwarten?",
+        "answer": "Aus den Hunderten von Patientengeschichten wissen wir, dass die Veränderung, da sie natürlich ist, zu Ihrem Gesicht passen wird, aber es kann sein, dass nicht jeder sie sofort bemerkt. Ihr Gesicht wird jedoch in perfekter Harmonie sein."
+      }
+    ]
+  },
+  "contactPage": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Wir sind hier um zu helfen. Kontaktieren Sie uns bei Fragen oder um Ihre Beratung zu vereinbaren.",
+    "officeHours": "Öffnungszeiten",
+    "mondayFriday": "Montag - Freitag: 9:00 - 18:00 Uhr",
+    "saturday": "Samstag: 10:00 - 16:00 Uhr",
+    "sunday": "Sonntag: Geschlossen",
+    "location": "Unser Standort"
+  },
+  "chat": {
+    "welcome": "Willkommen bei Kira Aesthetic! Wie kann ich Ihnen heute helfen?",
+    "inputPlaceholder": "Stellen Sie eine Frage..."
+  },
+  "admin": {
+    "loginTitle": "Admin-Anmeldung",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "login": "Anmelden",
+    "dashboard": "Dashboard",
+    "feedback": "Feedback-Zusammenfassung",
+    "blogManagement": "Blog-Verwaltung",
+    "logout": "Abmelden",
+    "feedbackTitle": "Kundenfeedback-Zusammenfassung",
+    "feedbackSubtitle": "Fügen Sie unten Kundenfeedback ein, um eine kurze Zusammenfassung mit umsetzbaren Erkenntnissen zu erstellen.",
+    "feedbackInput": "Geben Sie hier Kundenfeedback ein...",
+    "summarize": "Zusammenfassen",
+    "summary": "Zusammenfassung",
+    "blogTitle": "Blogbeiträge verwalten",
+    "newPost": "Neuer Beitrag",
+    "postTitle": "Titel",
+    "postDate": "Datum",
+    "postAuthor": "Autor",
+    "actions": "Aktionen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen"
+  },
+  "resultsCarousel": {
+    "title": "Ergebnisse"
+  }
+}
